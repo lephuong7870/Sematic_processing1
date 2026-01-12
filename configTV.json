@@ -1,0 +1,13 @@
+{
+    "dateofbirth": "sinh ngày",
+    "gender": "giới tính",
+    "ethnicity": "dân tộc",
+    "bloodgroup": "nhóm máu",
+    "religion": "tôn giáo",
+    "maritalstatus": "tình trạng hôn nhân",
+    "householdrecordnumber": "thuộc mã hộ gia đình",
+    "householderrelation": "mối quan hệ với chủ hộ",
+    "phone": "số điện thoại",
+    "socialinsurancenumber": "mã số bảo hiểm xã hội / BHXH",
+    "healthinsurancenumber": "mã số bảo hiểm y tế / BHYT"
+  }

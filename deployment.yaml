@@ -1,0 +1,62 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: convert-texting-sematic-cm
+data:
+  PORT_RUNNING: "8005"
+
+---
+
+
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: convert-sematic-text
+  labels:
+    app: convert-sematic-text
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: convert-sematic-text
+  template:
+    metadata:
+      labels:
+        app: convert-sematic-text
+    spec:
+      containers:
+      - name: convert-sematic-text
+        image: 19133046/api-sematic:v1
+        imagePullPolicy: Always  
+        ports:
+        - containerPort: 8005
+        resources:
+          requests:
+            cpu: "500m"
+            memory: "2Gi"
+          limits:
+            cpu: "1"
+            memory: "2Gi"
+        env:
+        - name: PORT_RUNNING
+          valueFrom:
+            configMapKeyRef:
+              name: convert-texting-sematic-cm
+              key: PORT_RUNNING
+
+--- 
+
+apiVersion: v1
+kind: Service
+metadata:
+  name: convert-sematic-text
+  labels:
+    app: convert-sematic-text
+spec:
+  selector:
+    app: convert-sematic-text
+  ports:
+    - protocol: TCP
+      port: 8005       
+      targetPort: 8005 
+  type: ClusterIP    

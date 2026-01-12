@@ -1,0 +1,756 @@
+{
+  "nodes": [
+    {
+      "id": "b31c3f55-59cb-5020-a230-744bbb717621",
+      "entity": "Netizen",
+      "properties": {
+        "Mother[0].motherIdentityId": [
+          "038191019355"
+        ],
+        "socialInsuranceNumber": [
+          "7022273644"
+        ],
+        "fullName": [
+          "LÊ BÁ KIẾN THÀNH"
+        ],
+        "Father[0].fatherIdentityId": [
+          "070091009110"
+        ],
+        "Father[0].fatherNationalId": [
+          "285275176"
+        ],
+        "dateOfBirth": [
+          "2014-02-14T00:00:00.000000000Z"
+        ],
+        "Mother[0].motherNationalId": [
+          "285783161"
+        ],
+        "HouseHolder[0].houseHolderIdentityId": [
+          "070091009110"
+        ],
+        "healthInsuranceNumber": [
+          "GD4707022273644"
+        ],
+        "identityId": [
+          "070214007485"
+        ],
+        "HouseHolder[0].houseHolderNationalId": [
+          "285275176"
+        ]
+      },
+      "level": 0
+    },
+    {
+      "id": "7974ea7e-b8dd-54ff-8bb0-8b915e7238f8",
+      "entity": "Citizen",
+      "properties": {
+        "Residential[0].residentialProvince": [
+          "70"
+        ],
+        "Father[0].fatherCountry": [
+          "VN"
+        ],
+        "HouseHolder[0].houseHolderFullname": [
+          "LÊ BÁ TRƯỜNG"
+        ],
+        "Father[0].fatherNationalID": [
+          "285275176"
+        ],
+        "PlaceOfBirth[0].placeOfBirthDistrict": [
+          "698"
+        ],
+        "maritalStatus": [
+          "1"
+        ],
+        "Address[0].addressProvince": [
+          "70"
+        ],
+        "PlaceOfBirth[0].placeOfBirthProvince": [
+          "70"
+        ],
+        "HomeTown[0].hometownCountry": [
+          "VN"
+        ],
+        "Mother[0].motherIdentityID": [
+          "038191019355"
+        ],
+        "HomeTown[0].hometownDistrict": [
+          "397"
+        ],
+        "PlaceOfBirth[0].placeOfBirthCountry": [
+          "VN"
+        ],
+        "dateOfBirth": [
+          "2014-02-14T00:00:00.000000000Z"
+        ],
+        "Residential[0].residentialCountry": [
+          "VN"
+        ],
+        "Address[0].addressDetail": [
+          "TỔ 2, THÔN 3"
+        ],
+        "Address[0].addressCountry": [
+          "VN"
+        ],
+        "ethnicity": [
+          "01"
+        ],
+        "Father[0].fatherFullname": [
+          "LÊ BÁ TRƯỜNG"
+        ],
+        "Mother[0].motherCountry": [
+          "VN"
+        ],
+        "houseHoldRecordNumber": [
+          "25258-000490"
+        ],
+        "fullName": [
+          "LÊ BÁ KIẾN THÀNH"
+        ],
+        "HomeTown[0].hometownCommune": [
+          "15673"
+        ],
+        "Father[0].fatherIdentityID": [
+          "070091009110"
+        ],
+        "PlaceOfBirth[0].placeOfBirthCommune": [
+          "25258"
+        ],
+        "Address[0].addressCommune": [
+          "25258"
+        ],
+        "Mother[0].motherNationalID": [
+          "285783161"
+        ],
+        "Residential[0].residentialCommune": [
+          "25258"
+        ],
+        "Residential[0].residentialDistrict": [
+          "698"
+        ],
+        "bloodGroup": [
+          "00"
+        ],
+        "Mother[0].motherFullname": [
+          "LÊ THỊ LUYỆN"
+        ],
+        "identityID": [
+          "070214007485"
+        ],
+        "HomeTown[0].hometownProvince": [
+          "38"
+        ],
+        "Residential[0].residentialDetail": [
+          "TỔ 2, THÔN 3"
+        ],
+        "Address[0].addressDistrict": [
+          "698"
+        ],
+        "gender": [
+          "1"
+        ],
+        "houseHolderRelation": [
+          "26"
+        ],
+        "religion": [
+          "00"
+        ],
+        "HouseHolder[0].houseHolderNationalID": [
+          "285275176"
+        ],
+        "HouseHolder[0].houseHolderIdentityID": [
+          "070091009110"
+        ]
+      },
+      "level": 1
+    },
+    {
+      "id": "bef92d6d-c612-533b-95b8-f16c362c48e0",
+      "entity": "Citizen",
+      "properties": {
+        "Residential[0].residentialDistrict": [
+          "698"
+        ],
+        "Mother[0].motherNationalID": [
+          "285443644"
+        ],
+        "Residential[0].residentialCountry": [
+          "VN"
+        ],
+        "fullName": [
+          "LÊ BÁ TRƯỜNG"
+        ],
+        "HomeTown[0].hometownDistrict": [
+          "397"
+        ],
+        "Child[0].childIdentityID": [
+          "070214007485"
+        ],
+        "Child[0].childFullName": [
+          "LÊ BÁ KIẾN THÀNH"
+        ],
+        "HouseHolder[0].houseHolderFullname": [
+          "LÊ BÁ TRƯỜNG"
+        ],
+        "Address[0].addressCommune": [
+          "25258"
+        ],
+        "Child[2].childNationality": [
+          "VN"
+        ],
+        "Residential[0].residentialCommune": [
+          "25258"
+        ],
+        "Couple[0].coupleNationality": [
+          "VN"
+        ],
+        "maritalStatus": [
+          "2"
+        ],
+        "Father[0].fatherNationalID": [
+          "285443643"
+        ],
+        "ethnicity": [
+          "01"
+        ],
+        "HomeTown[0].hometownCommune": [
+          "15673"
+        ],
+        "Residential[0].residentialProvince": [
+          "70"
+        ],
+        "HomeTown[0].hometownProvince": [
+          "38"
+        ],
+        "Child[1].childNationality": [
+          "VN"
+        ],
+        "Address[0].addressDistrict": [
+          "698"
+        ],
+        "Couple[0].coupleIdentityID": [
+          "038191019355"
+        ],
+        "Child[1].childFullName": [
+          "LÊ THỊ MINH THƯ"
+        ],
+        "Child[1].childIdentityID": [
+          "070310008247"
+        ],
+        "dateOfBirth": [
+          "1991-04-03T00:00:00.000000000Z"
+        ],
+        "identityID": [
+          "070091009110"
+        ],
+        "Residential[0].residentialDetail": [
+          "TỔ 2, THÔN 3"
+        ],
+        "bloodGroup": [
+          "00"
+        ],
+        "Mother[0].motherFullname": [
+          "LÊ THỊ LAN"
+        ],
+        "Address[0].addressCountry": [
+          "VN"
+        ],
+        "Couple[0].coupleNationalID": [
+          "285783161"
+        ],
+        "religion": [
+          "00"
+        ],
+        "Father[0].fatherIdentityID": [
+          "038058008547"
+        ],
+        "HomeTown[0].hometownCountry": [
+          "VN"
+        ],
+        "PlaceOfBirth[0].placeOfBirthProvince": [
+          "70"
+        ],
+        "Father[0].fatherNationality": [
+          "VN"
+        ],
+        "Child[0].childNationality": [
+          "VN"
+        ],
+        "PlaceOfBirth[0].placeOfBirthCountry": [
+          "VN"
+        ],
+        "houseHoldRecordNumber": [
+          "25258-000490"
+        ],
+        "gender": [
+          "1"
+        ],
+        "Couple[0].coupleFullname": [
+          "LÊ THỊ LUYỆN"
+        ],
+        "Father[0].fatherFullname": [
+          "LÊ BÁ TÍNH"
+        ],
+        "houseHolderRelation": [
+          "2"
+        ],
+        "Mother[0].motherIdentityID": [
+          "038165009075"
+        ],
+        "PlaceOfBirth[0].placeOfBirthDistrict": [
+          "698"
+        ],
+        "Mother[0].motherNationality": [
+          "VN"
+        ],
+        "Child[2].childIdentityID": [
+          "070321006666"
+        ],
+        "Address[0].addressDetail": [
+          "TỔ 2, THÔN 3"
+        ],
+        "nationalID": [
+          "285275176"
+        ],
+        "Address[0].addressProvince": [
+          "70"
+        ],
+        "HouseHolder[0].houseHolderNationalID": [
+          "285275176"
+        ],
+        "Child[2].childFullName": [
+          "LÊ THỊ THANH TRÚC"
+        ],
+        "PlaceOfBirth[0].placeOfBirthCommune": [
+          "25258"
+        ],
+        "HouseHolder[0].houseHolderIdentityID": [
+          "070091009110"
+        ]
+      },
+      "level": 1
+    },
+    {
+      "id": "80fb446e-eff2-5e2e-aaf1-ca3e43ac3c75",
+      "entity": "Citizen",
+      "properties": {
+        "Residential[0].residentialDistrict": [
+          "698"
+        ],
+        "Mother[0].motherNationalID": [
+          "171235126"
+        ],
+        "Residential[0].residentialCountry": [
+          "VN"
+        ],
+        "fullName": [
+          "LÊ THỊ LUYỆN"
+        ],
+        "HomeTown[0].hometownDistrict": [
+          "404"
+        ],
+        "Child[0].childIdentityID": [
+          "070214007485"
+        ],
+        "Child[0].childFullName": [
+          "LÊ BÁ KIẾN THÀNH"
+        ],
+        "HouseHolder[0].houseHolderFullname": [
+          "LÊ BÁ TRƯỜNG"
+        ],
+        "Address[0].addressCommune": [
+          "25258"
+        ],
+        "Child[2].childNationality": [
+          "VN"
+        ],
+        "Residential[0].residentialCommune": [
+          "25258"
+        ],
+        "Couple[0].coupleNationality": [
+          "VN"
+        ],
+        "maritalStatus": [
+          "2"
+        ],
+        "Father[0].fatherNationalID": [
+          "172609917"
+        ],
+        "ethnicity": [
+          "01"
+        ],
+        "HomeTown[0].hometownCommune": [
+          "16333"
+        ],
+        "Residential[0].residentialProvince": [
+          "70"
+        ],
+        "HomeTown[0].hometownProvince": [
+          "38"
+        ],
+        "Child[1].childNationality": [
+          "VN"
+        ],
+        "Address[0].addressDistrict": [
+          "698"
+        ],
+        "Couple[0].coupleIdentityID": [
+          "070091009110"
+        ],
+        "Child[1].childFullName": [
+          "LÊ THỊ MINH THƯ"
+        ],
+        "Child[1].childIdentityID": [
+          "070310008247"
+        ],
+        "dateOfBirth": [
+          "1991-10-20T00:00:00.000000000Z"
+        ],
+        "identityID": [
+          "038191019355"
+        ],
+        "Residential[0].residentialDetail": [
+          "TỔ 2 THÔN 3"
+        ],
+        "bloodGroup": [
+          "00"
+        ],
+        "Mother[0].motherFullname": [
+          "ĐỖ THỊ NINH"
+        ],
+        "Address[0].addressCountry": [
+          "VN"
+        ],
+        "Couple[0].coupleNationalID": [
+          "285275176"
+        ],
+        "religion": [
+          "00"
+        ],
+        "Father[0].fatherIdentityID": [
+          "038056004895"
+        ],
+        "HomeTown[0].hometownCountry": [
+          "VN"
+        ],
+        "PlaceOfBirth[0].placeOfBirthProvince": [
+          "38"
+        ],
+        "Father[0].fatherNationality": [
+          "VN"
+        ],
+        "Child[0].childNationality": [
+          "VN"
+        ],
+        "PlaceOfBirth[0].placeOfBirthCountry": [
+          "VN"
+        ],
+        "houseHoldRecordNumber": [
+          "25258-000490"
+        ],
+        "gender": [
+          "2"
+        ],
+        "Couple[0].coupleFullname": [
+          "LÊ BÁ TRƯỜNG"
+        ],
+        "Father[0].fatherFullname": [
+          "LÊ ĐĂNG TOÁN"
+        ],
+        "houseHolderRelation": [
+          "16"
+        ],
+        "PlaceOfBirth[0].placeOfBirthDistrict": [
+          "404"
+        ],
+        "Mother[0].motherNationality": [
+          "VN"
+        ],
+        "Child[2].childIdentityID": [
+          "070321006666"
+        ],
+        "Address[0].addressDetail": [
+          "TỔ 2 THÔN 3"
+        ],
+        "nationalID": [
+          "285783161"
+        ],
+        "Address[0].addressProvince": [
+          "70"
+        ],
+        "HouseHolder[0].houseHolderNationalID": [
+          "285275176"
+        ],
+        "Child[2].childFullName": [
+          "LÊ THỊ THANH TRÚC"
+        ],
+        "PlaceOfBirth[0].placeOfBirthCommune": [
+          "16333"
+        ],
+        "HouseHolder[0].houseHolderIdentityID": [
+          "070091009110"
+        ]
+      },
+      "level": 1
+    },
+    {
+      "id": "071362f6-108e-5d90-ac84-8df0e73d8e89",
+      "entity": "Netizen",
+      "properties": {
+        "Mother[0].motherIdentityId": [
+          "038165009075"
+        ],
+        "fullName": [
+          "LÊ BÁ TRƯỜNG"
+        ],
+        "Father[0].fatherIdentityId": [
+          "038058008547"
+        ],
+        "Father[0].fatherNationalId": [
+          "285443643"
+        ],
+        "Child[0].childIdentityId": [
+          "070310008247"
+        ],
+        "Child[1].childIdentityId": [
+          "070214007485"
+        ],
+        "phone": [
+          "0965465650",
+          "0977711151"
+        ],
+        "dateOfBirth": [
+          "1991-04-03T00:00:00.000000000Z"
+        ],
+        "Mother[0].motherNationalId": [
+          "285443644"
+        ],
+        "HouseHolder[0].houseHolderIdentityId": [
+          "070091009110"
+        ],
+        "facebookId": [
+          "100005130090224"
+        ],
+        "Child[2].childIdentityId": [
+          "070321006666"
+        ],
+        "Couple[0].coupleNationalId": [
+          "285783161"
+        ],
+        "Couple[0].coupleIdentityId": [
+          "038191019355"
+        ],
+        "identityId": [
+          "070091009110"
+        ],
+        "HouseHolder[0].houseHolderNationalId": [
+          "285275176"
+        ],
+        "taxCode": [
+          "8613507185"
+        ],
+        "nationalId": [
+          "285275176"
+        ]
+      },
+      "level": 1
+    },
+    {
+      "id": "b6d9eff3-9696-52f5-804c-c611f7ddb24c",
+      "entity": "Netizen",
+      "properties": {
+        "socialInsuranceNumber": [
+          "7021832477"
+        ],
+        "fullName": [
+          "LÊ THỊ LUYỆN"
+        ],
+        "Father[0].fatherIdentityId": [
+          "038056004895"
+        ],
+        "Father[0].fatherNationalId": [
+          "172609917"
+        ],
+        "Child[0].childIdentityId": [
+          "070310008247"
+        ],
+        "Child[1].childIdentityId": [
+          "070214007485"
+        ],
+        "dateOfBirth": [
+          "1991-10-20T00:00:00.000000000Z"
+        ],
+        "Mother[0].motherNationalId": [
+          "171235126"
+        ],
+        "HouseHolder[0].houseHolderIdentityId": [
+          "070091009110"
+        ],
+        "Child[2].childIdentityId": [
+          "070321006666"
+        ],
+        "healthInsuranceNumber": [
+          "GD4707021832477"
+        ],
+        "Couple[0].coupleNationalId": [
+          "285275176"
+        ],
+        "Couple[0].coupleIdentityId": [
+          "070091009110"
+        ],
+        "identityId": [
+          "038191019355"
+        ],
+        "HouseHolder[0].houseHolderNationalId": [
+          "285275176"
+        ],
+        "nationalId": [
+          "285783161"
+        ]
+      },
+      "level": 1
+    },
+    {
+      "id": "d6819b39-cf44-4620-be44-83a4cb8d157c",
+      "entity": "Person",
+      "properties": {
+        "socialInsuranceNumber": [
+          "7022273644"
+        ],
+        "addressCommune": [
+          "25258"
+        ],
+        "identityId": [
+          "070214007485"
+        ],
+        "dateOfBirth": [
+          "2014-02-14T00:00:00.000000000Z"
+        ],
+        "addressRegistrationSocialInsurance": [
+          "Hộ gia đình BHYT xã Long Tân_Bưu điện - Nguyễn Thị Tuyến"
+        ],
+        "healthInsuranceNumber": [
+          "GD4707022273644"
+        ],
+        "addressDistrict": [
+          "698"
+        ],
+        "residentialAddressDetail": [
+          "Thôn 3 Xã Long Tân Huyện Phú Riềng Tỉnh Bình Phước"
+        ],
+        "addressProvince": [
+          "70"
+        ],
+        "fullName": [
+          "Lê Bá Kiến Thành"
+        ]
+      },
+      "level": 1
+    },
+    {
+      "id": "8da7c38b-d3dc-5864-ab98-c16ab07a7d19",
+      "entity": "Person",
+      "properties": {
+        "socialInsuranceNumber": [
+          "7022273644"
+        ],
+        "addressCommune": [
+          "25258"
+        ],
+        "identityId": [
+          "070214007485"
+        ],
+        "dateOfBirth": [
+          "2014-02-14T00:00:00.000000000Z"
+        ],
+        "socialInsuranceNote": [
+          "Hộ gia đình BHYT xã Long Tân_Bưu điện - Nguyễn Thị Tuyến"
+        ],
+        "healthInsuranceNumber": [
+          "GD4707022273644"
+        ],
+        "addressDistrict": [
+          "698"
+        ],
+        "addressProvince": [
+          "70"
+        ],
+        "address": [
+          "Thôn 3, Xã Long Tân, Huyện Phú Riềng, Tỉnh Bình Phước"
+        ],
+        "fullName": [
+          "Lê Bá Kiến Thành"
+        ]
+      },
+      "level": 1
+    },
+    {
+      "id": "c416d813-9591-40f4-ad80-ceb7ec3db4be",
+      "entity": "Person",
+      "properties": {
+        "identityId": [
+          "070214007485"
+        ],
+        "dateOfBirth": [
+          "2014-02-14T00:00:00.000000000Z"
+        ],
+        "healthInsuranceNumber": [
+          "GD4707022273644"
+        ],
+        "healthInsurancePayer": [
+          "Hộ gia đình BHYT xã Long Tân_Bưu điện - Nguyễn Thị Tuyến"
+        ],
+        "fullName": [
+          "Lê Bá Kiến Thành"
+        ]
+      },
+      "level": 1
+    }
+  ],
+  "edges": [
+    {
+      "from_entity": "b31c3f55-59cb-5020-a230-744bbb717621",
+      "to_entity": "7974ea7e-b8dd-54ff-8bb0-8b915e7238f8",
+      "relation_type": "links"
+    },
+    {
+      "from_entity": "bef92d6d-c612-533b-95b8-f16c362c48e0",
+      "from_entity_type": "Citizen",
+      "relation_type": "houseHolderOf",
+      "to_entity": "7974ea7e-b8dd-54ff-8bb0-8b915e7238f8",
+      "to_entity_type": "Citizen"
+    },
+    {
+      "from_entity": "80fb446e-eff2-5e2e-aaf1-ca3e43ac3c75",
+      "from_entity_type": "Citizen",
+      "relation_type": "motherOf",
+      "to_entity": "7974ea7e-b8dd-54ff-8bb0-8b915e7238f8",
+      "to_entity_type": "Citizen"
+    },
+    {
+      "from_entity": "b31c3f55-59cb-5020-a230-744bbb717621",
+      "to_entity": "071362f6-108e-5d90-ac84-8df0e73d8e89",
+      "relation_type": "links"
+    },
+    {
+      "from_entity": "b31c3f55-59cb-5020-a230-744bbb717621",
+      "to_entity": "b6d9eff3-9696-52f5-804c-c611f7ddb24c",
+      "relation_type": "links"
+    },
+    {
+      "from_entity": "b31c3f55-59cb-5020-a230-744bbb717621",
+      "to_entity": "d6819b39-cf44-4620-be44-83a4cb8d157c",
+      "relation_type": "links"
+    },
+    {
+      "from_entity": "b31c3f55-59cb-5020-a230-744bbb717621",
+      "to_entity": "8da7c38b-d3dc-5864-ab98-c16ab07a7d19",
+      "relation_type": "links"
+    },
+    {
+      "from_entity": "b31c3f55-59cb-5020-a230-744bbb717621",
+      "to_entity": "c416d813-9591-40f4-ad80-ceb7ec3db4be",
+      "relation_type": "links"
+    }
+  ]
+}

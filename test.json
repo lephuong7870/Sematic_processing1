@@ -1,0 +1,1803 @@
+{
+  "nodes": [
+    {
+      "id": "c0b2cc6e-35fe-54b9-b4c5-e0ce3bdb71ab",
+      "entity": "Netizen",
+      "properties": {
+        "Mother[0].motherIdentityId": [
+          "040146001136"
+        ],
+        "socialInsuranceNumber": [
+          "2206004644",
+          "040076027763"
+        ],
+        "fullName": [
+          "LÊ ĐỨC DŨNG"
+        ],
+        "licencePlateNumber": [
+          "37L18892",
+          "37A32099"
+        ],
+        "Child[0].childIdentityId": [
+          "040302014721"
+        ],
+        "Child[1].childIdentityId": [
+          "040207026825"
+        ],
+        "phone": [
+          "0975425406",
+          "0344298656",
+          "0946229686"
+        ],
+        "dateOfBirth": [
+          "1976-07-24T00:00:00.000000000Z"
+        ],
+        "Mother[0].motherNationalId": [
+          "180847799"
+        ],
+        "Child[0].childNationalId": [
+          "188003799"
+        ],
+        "HouseHolder[0].houseHolderIdentityId": [
+          "040076027763"
+        ],
+        "facebookId": [
+          "100003830422743"
+        ],
+        "healthInsuranceNumber": [
+          "HC4402206004644"
+        ],
+        "Couple[0].coupleNationalId": [
+          "182231124"
+        ],
+        "Couple[0].coupleIdentityId": [
+          "040177012788"
+        ],
+        "identityId": [
+          "040076027763"
+        ],
+        "HouseHolder[0].houseHolderNationalId": [
+          "182045527"
+        ],
+        "nationalId": [
+          "182045527"
+        ]
+      },
+      "level": 0
+    },
+    {
+      "id": "7f9aca3b-a32d-5172-b20e-3e47cea4f071",
+      "entity": "Citizen",
+      "properties": {
+        "Residential[0].residentialDistrict": [
+          "427"
+        ],
+        "Mother[0].motherNationalID": [
+          "180847799"
+        ],
+        "Residential[0].residentialCountry": [
+          "VN"
+        ],
+        "fullName": [
+          "LÊ ĐỨC DŨNG"
+        ],
+        "HomeTown[0].hometownDistrict": [
+          "427"
+        ],
+        "Child[0].childIdentityID": [
+          "040207026825"
+        ],
+        "Child[0].childFullName": [
+          "LÊ ĐỨC ĐẠT"
+        ],
+        "HouseHolder[0].houseHolderFullname": [
+          "LÊ ĐỨC DŨNG"
+        ],
+        "Address[0].addressCommune": [
+          "17644"
+        ],
+        "Residential[0].residentialCommune": [
+          "17644"
+        ],
+        "Couple[0].coupleNationality": [
+          "VN"
+        ],
+        "maritalStatus": [
+          "2"
+        ],
+        "ethnicity": [
+          "01"
+        ],
+        "HomeTown[0].hometownCommune": [
+          "17644"
+        ],
+        "Residential[0].residentialProvince": [
+          "40"
+        ],
+        "HomeTown[0].hometownProvince": [
+          "40"
+        ],
+        "Child[1].childNationality": [
+          "VN"
+        ],
+        "Address[0].addressDistrict": [
+          "427"
+        ],
+        "Couple[0].coupleIdentityID": [
+          "040177012788"
+        ],
+        "Child[1].childFullName": [
+          "LÊ THỊ KIM ANH"
+        ],
+        "Child[1].childIdentityID": [
+          "040302014721"
+        ],
+        "dateOfBirth": [
+          "1976-07-24T00:00:00.000000000Z"
+        ],
+        "identityID": [
+          "040076027763"
+        ],
+        "Residential[0].residentialDetail": [
+          "XÓM 5"
+        ],
+        "bloodGroup": [
+          "00"
+        ],
+        "Mother[0].motherFullname": [
+          "NGUYỄN THỊ THỰU"
+        ],
+        "Address[0].addressCountry": [
+          "VN"
+        ],
+        "Couple[0].coupleNationalID": [
+          "182231124"
+        ],
+        "religion": [
+          "00"
+        ],
+        "HomeTown[0].hometownCountry": [
+          "VN"
+        ],
+        "Child[1].childNationalID": [
+          "188003799"
+        ],
+        "PlaceOfBirth[0].placeOfBirthProvince": [
+          "40"
+        ],
+        "Father[0].fatherNationality": [
+          "VN"
+        ],
+        "Child[0].childNationality": [
+          "VN"
+        ],
+        "PlaceOfBirth[0].placeOfBirthCountry": [
+          "VN"
+        ],
+        "houseHoldRecordNumber": [
+          "17644-001465"
+        ],
+        "gender": [
+          "1"
+        ],
+        "Couple[0].coupleFullname": [
+          "NGUYỄN THỊ HOÀI"
+        ],
+        "Father[0].fatherFullname": [
+          "LÊ ĐỨC NHIÊN"
+        ],
+        "houseHolderRelation": [
+          "2"
+        ],
+        "Mother[0].motherIdentityID": [
+          "040146001136"
+        ],
+        "PlaceOfBirth[0].placeOfBirthDistrict": [
+          "427"
+        ],
+        "Mother[0].motherNationality": [
+          "VN"
+        ],
+        "Address[0].addressDetail": [
+          "XÓM 5"
+        ],
+        "nationalID": [
+          "182045527"
+        ],
+        "Address[0].addressProvince": [
+          "40"
+        ],
+        "HouseHolder[0].houseHolderNationalID": [
+          "182045527"
+        ],
+        "PlaceOfBirth[0].placeOfBirthCommune": [
+          "17644"
+        ],
+        "HouseHolder[0].houseHolderIdentityID": [
+          "040076027763"
+        ]
+      }
+    },
+    {
+      "id": "55306b8a-c91b-56a2-ba53-e090f0c5b320",
+      "entity": "Citizen",
+      "properties": {
+        "Residential[0].residentialDistrict": [
+          "427"
+        ],
+        "Residential[0].residentialCountry": [
+          "VN"
+        ],
+        "fullName": [
+          "NGUYỄN THỊ THỰU"
+        ],
+        "HomeTown[0].hometownDistrict": [
+          "427"
+        ],
+        "Child[0].childIdentityID": [
+          "040073027545"
+        ],
+        "Child[0].childFullName": [
+          "LÊ ĐỨC HƯNG"
+        ],
+        "HouseHolder[0].houseHolderFullname": [
+          "NGUYỄN THỊ THỰU"
+        ],
+        "Address[0].addressCommune": [
+          "17644"
+        ],
+        "Child[2].childNationality": [
+          "VN"
+        ],
+        "Residential[0].residentialCommune": [
+          "17644"
+        ],
+        "Couple[0].coupleNationality": [
+          "VN"
+        ],
+        "maritalStatus": [
+          "2"
+        ],
+        "ethnicity": [
+          "01"
+        ],
+        "HomeTown[0].hometownCommune": [
+          "17644"
+        ],
+        "Residential[0].residentialProvince": [
+          "40"
+        ],
+        "HomeTown[0].hometownProvince": [
+          "40"
+        ],
+        "Child[1].childNationality": [
+          "VN"
+        ],
+        "Address[0].addressDistrict": [
+          "427"
+        ],
+        "Child[0].childNationalID": [
+          "186558217"
+        ],
+        "Child[1].childFullName": [
+          "LÊ ĐỨC DŨNG"
+        ],
+        "Child[1].childIdentityID": [
+          "040076027763"
+        ],
+        "dateOfBirth": [
+          "1946-05-06T00:00:00.000000000Z"
+        ],
+        "identityID": [
+          "040146001136"
+        ],
+        "Residential[0].residentialDetail": [
+          "XÓM 5"
+        ],
+        "bloodGroup": [
+          "00"
+        ],
+        "Mother[0].motherFullname": [
+          "LÊ THỊ VƯU"
+        ],
+        "Address[0].addressCountry": [
+          "VN"
+        ],
+        "religion": [
+          "00"
+        ],
+        "HomeTown[0].hometownCountry": [
+          "VN"
+        ],
+        "Child[1].childNationalID": [
+          "182045527"
+        ],
+        "Child[2].childNationalID": [
+          "186143416"
+        ],
+        "PlaceOfBirth[0].placeOfBirthProvince": [
+          "40"
+        ],
+        "Father[0].fatherNationality": [
+          "VN"
+        ],
+        "Child[0].childNationality": [
+          "VN"
+        ],
+        "PlaceOfBirth[0].placeOfBirthCountry": [
+          "VN"
+        ],
+        "houseHoldRecordNumber": [
+          "17644-001450"
+        ],
+        "gender": [
+          "2"
+        ],
+        "Couple[0].coupleFullname": [
+          "NGUYỄN THỊ THỰU"
+        ],
+        "Father[0].fatherFullname": [
+          "NGUYỄN TẤT TÂN"
+        ],
+        "houseHolderRelation": [
+          "2"
+        ],
+        "PlaceOfBirth[0].placeOfBirthDistrict": [
+          "427"
+        ],
+        "Mother[0].motherNationality": [
+          "VN"
+        ],
+        "Child[2].childIdentityID": [
+          "040085006609"
+        ],
+        "Address[0].addressDetail": [
+          "XÓM 5"
+        ],
+        "nationalID": [
+          "180847799"
+        ],
+        "Address[0].addressProvince": [
+          "40"
+        ],
+        "HouseHolder[0].houseHolderNationalID": [
+          "180847799"
+        ],
+        "Child[2].childFullName": [
+          "LÊ ĐỨC BẰNG"
+        ],
+        "PlaceOfBirth[0].placeOfBirthCommune": [
+          "17644"
+        ],
+        "HouseHolder[0].houseHolderIdentityID": [
+          "040146001136"
+        ]
+      }
+    },
+    {
+      "id": "eca5e3c5-c52a-5ae1-8598-3d88d265a6a0",
+      "entity": "Citizen",
+      "properties": {
+        "Residential[0].residentialProvince": [
+          "40"
+        ],
+        "Father[0].fatherCountry": [
+          "VN"
+        ],
+        "HouseHolder[0].houseHolderFullname": [
+          "LÊ ĐỨC DŨNG"
+        ],
+        "Father[0].fatherNationalID": [
+          "182045527"
+        ],
+        "PlaceOfBirth[0].placeOfBirthDistrict": [
+          "427"
+        ],
+        "maritalStatus": [
+          "1"
+        ],
+        "Address[0].addressProvince": [
+          "40"
+        ],
+        "PlaceOfBirth[0].placeOfBirthProvince": [
+          "40"
+        ],
+        "HomeTown[0].hometownCountry": [
+          "VN"
+        ],
+        "Mother[0].motherIdentityID": [
+          "040177012788"
+        ],
+        "HomeTown[0].hometownDistrict": [
+          "427"
+        ],
+        "PlaceOfBirth[0].placeOfBirthCountry": [
+          "VN"
+        ],
+        "dateOfBirth": [
+          "2007-11-13T00:00:00.000000000Z"
+        ],
+        "Residential[0].residentialCountry": [
+          "VN"
+        ],
+        "Address[0].addressDetail": [
+          "Xóm 5"
+        ],
+        "Address[0].addressCountry": [
+          "VN"
+        ],
+        "ethnicity": [
+          "01"
+        ],
+        "Father[0].fatherFullname": [
+          "LÊ ĐỨC DŨNG"
+        ],
+        "Mother[0].motherCountry": [
+          "VN"
+        ],
+        "houseHoldRecordNumber": [
+          "17644-001465"
+        ],
+        "fullName": [
+          "LÊ ĐỨC ĐẠT"
+        ],
+        "HomeTown[0].hometownCommune": [
+          "17644"
+        ],
+        "Father[0].fatherIdentityID": [
+          "040076027763"
+        ],
+        "PlaceOfBirth[0].placeOfBirthCommune": [
+          "17644"
+        ],
+        "Address[0].addressCommune": [
+          "17644"
+        ],
+        "Mother[0].motherNationalID": [
+          "182231124"
+        ],
+        "Residential[0].residentialCommune": [
+          "17644"
+        ],
+        "Residential[0].residentialDistrict": [
+          "427"
+        ],
+        "bloodGroup": [
+          "00"
+        ],
+        "Mother[0].motherFullname": [
+          "NGUYỄN THỊ HOÀI"
+        ],
+        "identityID": [
+          "040207026825"
+        ],
+        "HomeTown[0].hometownProvince": [
+          "40"
+        ],
+        "Residential[0].residentialDetail": [
+          "Xóm 5"
+        ],
+        "Address[0].addressDistrict": [
+          "427"
+        ],
+        "gender": [
+          "1"
+        ],
+        "houseHolderRelation": [
+          "26"
+        ],
+        "religion": [
+          "00"
+        ],
+        "HouseHolder[0].houseHolderNationalID": [
+          "182045527"
+        ],
+        "HouseHolder[0].houseHolderIdentityID": [
+          "040076027763"
+        ]
+      }
+    },
+    {
+      "id": "b9bdacb3-98d2-5f3f-8601-29146686117e",
+      "entity": "Citizen",
+      "properties": {
+        "Residential[0].residentialDistrict": [
+          "427"
+        ],
+        "Mother[0].motherNationalID": [
+          "182231124"
+        ],
+        "Residential[0].residentialCountry": [
+          "VN"
+        ],
+        "fullName": [
+          "LÊ THỊ KIM ANH"
+        ],
+        "Father[0].fatherCountry": [
+          "VN"
+        ],
+        "HomeTown[0].hometownDistrict": [
+          "427"
+        ],
+        "HouseHolder[0].houseHolderFullname": [
+          "LÊ ĐỨC DŨNG"
+        ],
+        "Address[0].addressCommune": [
+          "00358"
+        ],
+        "Residential[0].residentialCommune": [
+          "17644"
+        ],
+        "maritalStatus": [
+          "1"
+        ],
+        "Father[0].fatherNationalID": [
+          "182045527"
+        ],
+        "ethnicity": [
+          "01"
+        ],
+        "HomeTown[0].hometownCommune": [
+          "17644"
+        ],
+        "Residential[0].residentialProvince": [
+          "40"
+        ],
+        "HomeTown[0].hometownProvince": [
+          "40"
+        ],
+        "Address[0].addressDistrict": [
+          "009"
+        ],
+        "dateOfBirth": [
+          "2002-11-04T00:00:00.000000000Z"
+        ],
+        "identityID": [
+          "040302014721"
+        ],
+        "Residential[0].residentialDetail": [
+          "Xóm 5"
+        ],
+        "bloodGroup": [
+          "00"
+        ],
+        "Mother[0].motherFullname": [
+          "NGUYỄN THỊ HOÀI"
+        ],
+        "Address[0].addressCountry": [
+          "VN"
+        ],
+        "religion": [
+          "00"
+        ],
+        "Father[0].fatherIdentityID": [
+          "040076027763"
+        ],
+        "HomeTown[0].hometownCountry": [
+          "VN"
+        ],
+        "Mother[0].motherCountry": [
+          "VN"
+        ],
+        "PlaceOfBirth[0].placeOfBirthProvince": [
+          "40"
+        ],
+        "PlaceOfBirth[0].placeOfBirthCountry": [
+          "VN"
+        ],
+        "houseHoldRecordNumber": [
+          "17644-001465"
+        ],
+        "gender": [
+          "2"
+        ],
+        "Father[0].fatherFullname": [
+          "LÊ ĐỨC DŨNG"
+        ],
+        "houseHolderRelation": [
+          "26"
+        ],
+        "Mother[0].motherIdentityID": [
+          "040177012788"
+        ],
+        "PlaceOfBirth[0].placeOfBirthDistrict": [
+          "427"
+        ],
+        "Address[0].addressDetail": [
+          "347 Giải Phóng"
+        ],
+        "nationalID": [
+          "188003799"
+        ],
+        "Address[0].addressProvince": [
+          "01"
+        ],
+        "HouseHolder[0].houseHolderNationalID": [
+          "182045527"
+        ],
+        "PlaceOfBirth[0].placeOfBirthCommune": [
+          "17644"
+        ],
+        "HouseHolder[0].houseHolderIdentityID": [
+          "040076027763"
+        ]
+      }
+    },
+    {
+      "id": "69681a19-aed9-5373-9aa2-e06221583a65",
+      "entity": "Citizen",
+      "properties": {
+        "Residential[0].residentialDistrict": [
+          "427"
+        ],
+        "Mother[0].motherNationalID": [
+          "181872173"
+        ],
+        "Residential[0].residentialCountry": [
+          "VN"
+        ],
+        "fullName": [
+          "NGUYỄN THỊ HOÀI"
+        ],
+        "HomeTown[0].hometownDistrict": [
+          "427"
+        ],
+        "Child[0].childIdentityID": [
+          "040207026825"
+        ],
+        "Child[0].childFullName": [
+          "LÊ ĐỨC ĐẠT"
+        ],
+        "HouseHolder[0].houseHolderFullname": [
+          "LÊ ĐỨC DŨNG"
+        ],
+        "Address[0].addressCommune": [
+          "17644"
+        ],
+        "Residential[0].residentialCommune": [
+          "17644"
+        ],
+        "Couple[0].coupleNationality": [
+          "VN"
+        ],
+        "maritalStatus": [
+          "2"
+        ],
+        "Father[0].fatherNationalID": [
+          "187398243"
+        ],
+        "ethnicity": [
+          "01"
+        ],
+        "HomeTown[0].hometownCommune": [
+          "17644"
+        ],
+        "Residential[0].residentialProvince": [
+          "40"
+        ],
+        "HomeTown[0].hometownProvince": [
+          "40"
+        ],
+        "Child[1].childNationality": [
+          "VN"
+        ],
+        "Address[0].addressDistrict": [
+          "427"
+        ],
+        "Couple[0].coupleIdentityID": [
+          "040076027763"
+        ],
+        "Child[1].childFullName": [
+          "LÊ THỊ KIM ANH"
+        ],
+        "Child[1].childIdentityID": [
+          "040302014721"
+        ],
+        "dateOfBirth": [
+          "1977-12-20T00:00:00.000000000Z"
+        ],
+        "identityID": [
+          "040177012788"
+        ],
+        "Residential[0].residentialDetail": [
+          "XÓM 5"
+        ],
+        "bloodGroup": [
+          "00"
+        ],
+        "Mother[0].motherFullname": [
+          "LÊ THỊ THƯỜNG"
+        ],
+        "Address[0].addressCountry": [
+          "VN"
+        ],
+        "Couple[0].coupleNationalID": [
+          "182045527"
+        ],
+        "religion": [
+          "00"
+        ],
+        "HomeTown[0].hometownCountry": [
+          "VN"
+        ],
+        "Child[1].childNationalID": [
+          "188003799"
+        ],
+        "PlaceOfBirth[0].placeOfBirthProvince": [
+          "40"
+        ],
+        "Father[0].fatherNationality": [
+          "VN"
+        ],
+        "Child[0].childNationality": [
+          "VN"
+        ],
+        "PlaceOfBirth[0].placeOfBirthCountry": [
+          "VN"
+        ],
+        "houseHoldRecordNumber": [
+          "17644-001465"
+        ],
+        "gender": [
+          "2"
+        ],
+        "Couple[0].coupleFullname": [
+          "LÊ ĐỨC DŨNG"
+        ],
+        "Father[0].fatherFullname": [
+          "NGUYỄN VĂN MẪU"
+        ],
+        "houseHolderRelation": [
+          "16"
+        ],
+        "Mother[0].motherIdentityID": [
+          "040148008865"
+        ],
+        "PlaceOfBirth[0].placeOfBirthDistrict": [
+          "427"
+        ],
+        "Mother[0].motherNationality": [
+          "VN"
+        ],
+        "Address[0].addressDetail": [
+          "XÓM 5"
+        ],
+        "nationalID": [
+          "182231124"
+        ],
+        "Address[0].addressProvince": [
+          "40"
+        ],
+        "HouseHolder[0].houseHolderNationalID": [
+          "182045527"
+        ],
+        "PlaceOfBirth[0].placeOfBirthCommune": [
+          "17644"
+        ],
+        "HouseHolder[0].houseHolderIdentityID": [
+          "040076027763"
+        ]
+      }
+    },
+    {
+      "id": "8f1b8df5-5965-514e-800a-f7ad218450ff",
+      "entity": "Netizen",
+      "properties": {
+        "Mother[0].motherIdentityId": [
+          "040177012788"
+        ],
+        "socialInsuranceNumber": [
+          "040302014721",
+          "4016823280"
+        ],
+        "fullName": [
+          "LÊ THỊ KIM ANH"
+        ],
+        "Father[0].fatherIdentityId": [
+          "040076027763"
+        ],
+        "Father[0].fatherNationalId": [
+          "182045527"
+        ],
+        "phone": [
+          "0962798412",
+          "0973304540",
+          "0975764830"
+        ],
+        "dateOfBirth": [
+          "2002-11-04T00:00:00.000000000Z"
+        ],
+        "Mother[0].motherNationalId": [
+          "182231124"
+        ],
+        "HouseHolder[0].houseHolderIdentityId": [
+          "040076027763"
+        ],
+        "facebookId": [
+          "100004133885504",
+          "100011621707800"
+        ],
+        "healthInsuranceNumber": [
+          "SV4014016823280"
+        ],
+        "identityId": [
+          "040302014721"
+        ],
+        "HouseHolder[0].houseHolderNationalId": [
+          "182045527"
+        ],
+        "taxCode": [
+          "8693554519"
+        ],
+        "nationalId": [
+          "188003799"
+        ]
+      },
+      "level": 1
+    },
+    {
+      "id": "3da889c5-a5ef-5732-9602-f995e8177ce2",
+      "entity": "Netizen",
+      "properties": {
+        "Mother[0].motherIdentityId": [
+          "040148008865"
+        ],
+        "socialInsuranceNumber": [
+          "040177012788",
+          "2902001974"
+        ],
+        "fullName": [
+          "NGUYỄN THỊ HOÀI"
+        ],
+        "Father[0].fatherNationalId": [
+          "187398243"
+        ],
+        "Child[1].childNationalId": [
+          "188003799"
+        ],
+        "licencePlateNumber": [
+          "37S21780",
+          "37D190457"
+        ],
+        "Child[0].childIdentityId": [
+          "040207026825"
+        ],
+        "Child[1].childIdentityId": [
+          "040302014721"
+        ],
+        "phone": [
+          "0383159959",
+          "0334399406",
+          "0385287735"
+        ],
+        "dateOfBirth": [
+          "1977-12-20T00:00:00.000000000Z"
+        ],
+        "Mother[0].motherNationalId": [
+          "181872173"
+        ],
+        "HouseHolder[0].houseHolderIdentityId": [
+          "040076027763"
+        ],
+        "facebookId": [
+          "100008529915153"
+        ],
+        "healthInsuranceNumber": [
+          "HC4402902001974"
+        ],
+        "Couple[0].coupleNationalId": [
+          "182045527"
+        ],
+        "Couple[0].coupleIdentityId": [
+          "040076027763"
+        ],
+        "identityId": [
+          "040177012788"
+        ],
+        "HouseHolder[0].houseHolderNationalId": [
+          "182045527"
+        ],
+        "nationalId": [
+          "182231124"
+        ]
+      },
+      "level": 1
+    },
+    {
+      "id": "65628bfd-e9c3-5a9e-895f-7ab2d4e00114",
+      "entity": "Netizen",
+      "properties": {
+        "socialInsuranceNumber": [
+          "4017366751"
+        ],
+        "fullName": [
+          "NGUYỄN THỊ THỰU"
+        ],
+        "Child[2].childNationalId": [
+          "186143416"
+        ],
+        "Child[1].childNationalId": [
+          "186558217"
+        ],
+        "Child[0].childIdentityId": [
+          "040076027763"
+        ],
+        "Child[1].childIdentityId": [
+          "040073027545"
+        ],
+        "phone": [
+          "0356130993"
+        ],
+        "dateOfBirth": [
+          "1946-05-06T00:00:00.000000000Z"
+        ],
+        "Child[0].childNationalId": [
+          "182045527"
+        ],
+        "HouseHolder[0].houseHolderIdentityId": [
+          "040146001136"
+        ],
+        "Child[2].childIdentityId": [
+          "040085006609"
+        ],
+        "healthInsuranceNumber": [
+          "HT2404017366751"
+        ],
+        "identityId": [
+          "040146001136"
+        ],
+        "HouseHolder[0].houseHolderNationalId": [
+          "180847799"
+        ],
+        "nationalId": [
+          "180847799"
+        ]
+      },
+      "level": 1
+    },
+    {
+      "id": "565cf86f-16d7-50c3-884c-308a9f82a2ba",
+      "entity": "Netizen",
+      "properties": {
+        "Mother[0].motherIdentityId": [
+          "040177012788"
+        ],
+        "socialInsuranceNumber": [
+          "4016738217",
+          "040207026825"
+        ],
+        "fullName": [
+          "LÊ ĐỨC ĐẠT"
+        ],
+        "Father[0].fatherIdentityId": [
+          "040076027763"
+        ],
+        "Father[0].fatherNationalId": [
+          "182045527"
+        ],
+        "dateOfBirth": [
+          "2007-11-13T00:00:00.000000000Z"
+        ],
+        "Mother[0].motherNationalId": [
+          "182231124"
+        ],
+        "HouseHolder[0].houseHolderIdentityId": [
+          "040076027763"
+        ],
+        "healthInsuranceNumber": [
+          "HS4404016738217"
+        ],
+        "identityId": [
+          "040207026825"
+        ],
+        "HouseHolder[0].houseHolderNationalId": [
+          "182045527"
+        ]
+      },
+      "level": 1
+    },
+    {
+      "id": "bd05f760-cae7-5dc8-9c57-e33e0ed65f81",
+      "entity": "Person",
+      "properties": {
+        "socialInsuranceNumber": [
+          "2206004644"
+        ],
+        "addressCommune": [
+          "17644"
+        ],
+        "identityId": [
+          "040076027763"
+        ],
+        "phone": [
+          "0975425406"
+        ],
+        "dateOfBirth": [
+          "1976-07-24T00:00:00.000000000Z"
+        ],
+        "socialInsuranceNote": [
+          "Trạm giống chăn nuôi Đô Lương - H. Đô lương"
+        ],
+        "healthInsuranceNumber": [
+          "HC4402206004644"
+        ],
+        "addressDistrict": [
+          "427"
+        ],
+        "addressProvince": [
+          "40"
+        ],
+        "address": [
+          "Xã Thượng Sơn, Huyện Đô Lương, Tỉnh Nghệ An"
+        ],
+        "fullName": [
+          "Lê Đức Dũng"
+        ]
+      },
+      "level": 1
+    },
+    {
+      "id": "e72aa492-dc2f-4afb-8be9-e61b74834126",
+      "entity": "Person",
+      "properties": {
+        "socialInsuranceNumber": [
+          "2206004644"
+        ],
+        "addressCommune": [
+          "17644"
+        ],
+        "identityId": [
+          "040076027763"
+        ],
+        "phone": [
+          "0975425406"
+        ],
+        "dateOfBirth": [
+          "1976-07-24T00:00:00.000000000Z"
+        ],
+        "addressRegistrationSocialInsurance": [
+          "Trạm giống chăn nuôi Đô Lương - H. Đô lương"
+        ],
+        "healthInsuranceNumber": [
+          "HC4402206004644"
+        ],
+        "addressDistrict": [
+          "427"
+        ],
+        "residentialAddressDetail": [
+          " Xã Thượng Sơn Huyện Đô Lương Tỉnh Nghệ An"
+        ],
+        "addressProvince": [
+          "40"
+        ],
+        "fullName": [
+          "Lê Đức Dũng"
+        ]
+      },
+      "level": 1
+    },
+    {
+      "id": "2aa2361d-701f-4781-87e7-998484489949",
+      "entity": "Person",
+      "properties": {
+        "socialInsuranceNumber": [
+          "040076027763"
+        ],
+        "staffEmail": [
+          "tramgiongcndoluong@gmail.com"
+        ],
+        "directorName": [
+          "Lê Đức Dũng"
+        ],
+        "identityId": [
+          "040076027763"
+        ],
+        "coefficientsSalary": [
+          "4.32"
+        ],
+        "phone": [
+          "0975425406"
+        ],
+        "dateOfBirth": [
+          "1976-07-24T00:00:00.000000000Z"
+        ],
+        "salary": [
+          "0"
+        ],
+        "companyName": [
+          "Trạm giống chăn nuôi Đô Lương - H. Đô lương"
+        ],
+        "jobs": [
+          "Trưởng trạm"
+        ],
+        "householdNumber": [
+          "040302014721"
+        ],
+        "timeParticipateSocialInsurance": [
+          "21 năm 1 tháng"
+        ],
+        "companyAddress": [
+          "Xã Văn Sơn, Huyện Đô Lương, Tỉnh Nghệ An"
+        ],
+        "gender": [
+          "1"
+        ],
+        "address": [
+          "Xã Thượng Sơn, Huyện Đô Lương, Tỉnh Nghệ An"
+        ],
+        "insuranceFromDate": [
+          "2022-07-01T00:00:00.000000000Z"
+        ],
+        "fullName": [
+          "Lê Đức Dũng"
+        ],
+        "insuranceToDate": [
+          "2023-04-01T00:00:00.000000000Z"
+        ]
+      },
+      "level": 1
+    },
+    {
+      "id": "30fc28e0-904b-4505-9ec0-5cae11422ee8",
+      "entity": "Person",
+      "properties": {
+        "identityId": [
+          "040076027763"
+        ],
+        "phone": [
+          "0975425406"
+        ],
+        "dateOfBirth": [
+          "1976-07-24T00:00:00.000000000Z"
+        ],
+        "healthInsuranceNumber": [
+          "HC4402206004644"
+        ],
+        "healthInsurancePayer": [
+          "Trạm giống chăn nuôi Đô Lương - H. Đô lương"
+        ],
+        "fullName": [
+          "Lê Đức Dũng"
+        ]
+      },
+      "level": 1
+    },
+    {
+      "id": "ef00ccc5-14a3-4d57-911e-87f7e98e40cf",
+      "entity": "Person",
+      "properties": {
+        "staffEmail": [
+          "tramgiongcndoluong@gmail.com"
+        ],
+        "directorName": [
+          "Lê Đức Dũng"
+        ],
+        "identityId": [
+          "040076027763"
+        ],
+        "phone": [
+          "0975425406"
+        ],
+        "dateOfBirth": [
+          "1976-07-24T00:00:00.000000000Z"
+        ],
+        "addressRegistrationSocialInsurance": [
+          "Xã Thượng Sơn, Huyện Đô Lương, Tỉnh Nghệ An"
+        ],
+        "companyName": [
+          "Trạm giống chăn nuôi Đô Lương - H. Đô lương"
+        ],
+        "timeParticipateSocialInsurance": [
+          "21 năm 1 tháng "
+        ],
+        "companyAddress": [
+          "Xã Văn Sơn, Huyện Đô Lương, Tỉnh Nghệ An"
+        ],
+        "directorIdentityID": [
+          "040302014721"
+        ],
+        "gender": [
+          "1"
+        ],
+        "insuranceFromDate": [
+          "2022-07-01T00:00:00.000000000Z"
+        ],
+        "fullName": [
+          "LÊ ĐỨC DŨNG"
+        ],
+        "relationshipWithHouseholder": [
+          "KHÁC"
+        ],
+        "insuranceToDate": [
+          "2023-04-01T00:00:00.000000000Z"
+        ]
+      },
+      "level": 1
+    },
+    {
+      "id": "7193496c-6bff-596e-bcae-fa845fe4240f",
+      "entity": "Person",
+      "properties": {
+        "socialInsuranceNumber": [
+          "3314016492"
+        ],
+        "addressCommune": [
+          "32335"
+        ],
+        "identityId": [
+          "033089005829"
+        ],
+        "phone": [
+          "0946229686"
+        ],
+        "dateOfBirth": [
+          "1989-10-02T00:00:00.000000000Z"
+        ],
+        "socialInsuranceNote": [
+          "Hội phụ nữ huyện Khoái Châu - BHYT HGĐ xã Đông Kết"
+        ],
+        "healthInsuranceNumber": [
+          "GD4333314016492"
+        ],
+        "addressDistrict": [
+          "330"
+        ],
+        "addressProvince": [
+          "33"
+        ],
+        "address": [
+          "Xã Đồng Tiến, Huyện Khoái Châu, Tỉnh Hưng Yên"
+        ],
+        "fullName": [
+          "Đỗ Văn Mười"
+        ]
+      },
+      "level": 1
+    },
+    {
+      "id": "2e644d6e-169d-40e7-ade5-044f1200c10e",
+      "entity": "Person",
+      "properties": {
+        "identityId": [
+          "033089005829"
+        ],
+        "phone": [
+          "0946229686"
+        ],
+        "dateOfBirth": [
+          "1989-10-02T00:00:00.000000000Z"
+        ],
+        "healthInsuranceNumber": [
+          "GD4333314016492"
+        ],
+        "healthInsurancePayer": [
+          "Hội phụ nữ huyện Khoái Châu - BHYT HGĐ xã Đông Kết"
+        ],
+        "fullName": [
+          "Đỗ Văn Mười"
+        ]
+      },
+      "level": 1
+    },
+    {
+      "id": "249e0fc9-c996-4942-b3b3-034b353107e0",
+      "entity": "Person",
+      "properties": {
+        "socialInsuranceNumber": [
+          "3314016492"
+        ],
+        "addressCommune": [
+          "12244"
+        ],
+        "identityId": [
+          "033089005829"
+        ],
+        "phone": [
+          "0946229686"
+        ],
+        "dateOfBirth": [
+          "1989-10-02T00:00:00.000000000Z"
+        ],
+        "addressRegistrationSocialInsurance": [
+          "Hội phụ nữ huyện Khoái Châu - BHYT HGĐ xã Đông Kết"
+        ],
+        "healthInsuranceNumber": [
+          "GD4333314016492"
+        ],
+        "addressDistrict": [
+          "330"
+        ],
+        "residentialAddressDetail": [
+          " Xã Hồng Tiến Huyện Khoái Châu Tỉnh Hưng Yên"
+        ],
+        "addressProvince": [
+          "33"
+        ],
+        "fullName": [
+          "Đỗ Văn Mười"
+        ]
+      },
+      "level": 1
+    },
+    {
+      "id": "9e0a1c23-2a67-53d5-d3ac-fb46fc6e7556",
+      "entity": "Vehicle",
+      "properties": {
+        "firstLicensePlateIssueDate": [
+          "2016-09-29T09:11:04.000000000Z"
+        ],
+        "phone": [
+          "0946229686"
+        ],
+        "vehicleType": [
+          "oto"
+        ],
+        "licencePlateColor": [
+          "0"
+        ],
+        "licencePlateNumber": [
+          "37A32099"
+        ],
+        "bankAccountNumber": [
+          "1"
+        ],
+        "owner": [
+          "LÊ ĐỨC DŨNG   1976"
+        ],
+        "identityId": [
+          "040076027763"
+        ]
+      },
+      "level": 1
+    },
+    {
+      "id": "d4da5000-5959-4383-8fa2-7fcabf9863cc",
+      "entity": "Vehicle",
+      "properties": {
+        "firstLicensePlateIssueDate": [
+          "2016-09-29T00:00:00.000000000Z"
+        ],
+        "plateType": [
+          "0"
+        ],
+        "phone": [
+          "0946229686"
+        ],
+        "color": [
+          "Trắng"
+        ],
+        "vehicleType": [
+          "Ô tô con"
+        ],
+        "licencePlateNumber": [
+          "37A32099"
+        ],
+        "identityType": [
+          "2"
+        ],
+        "engineNumber": [
+          "UEJA08922"
+        ],
+        "capacity": [
+          "1498"
+        ],
+        "owner": [
+          "LÊ ĐỨC DŨNG   1976"
+        ],
+        "vehicleID": [
+          "62759833"
+        ],
+        "numberSittingSeats": [
+          "5"
+        ],
+        "identityId": [
+          "040076027763"
+        ],
+        "chassisNumber": [
+          "RL05TSBAMGER08922"
+        ],
+        "licensePlateIssueDate": [
+          "2016-09-29T00:00:00.000000000Z"
+        ],
+        "brand": [
+          "FORD"
+        ],
+        "address": [
+          "Xóm 9, Thượng Sơn, Đô Lương"
+        ]
+      },
+      "level": 1
+    },
+    {
+      "id": "6cdc92ee-2b6d-4b23-9ea4-b3a6dcc37b02",
+      "entity": "Vehicle",
+      "properties": {
+        "firstLicensePlateIssueDate": [
+          "2004-09-29T00:00:00.000000000Z"
+        ],
+        "certificateOfOriginNumber": [
+          "BP0167905"
+        ],
+        "color": [
+          "Xanh"
+        ],
+        "certificateOfOriginPlace": [
+          "Doanh nghiệp sản xuất phương tiện"
+        ],
+        "carBrand": [
+          "YAMAHA"
+        ],
+        "vehicleType": [
+          "Hai bánh từ 50-175cm3"
+        ],
+        "licencePlateNumber": [
+          "37L18892"
+        ],
+        "identityType": [
+          "1"
+        ],
+        "vINNumber": [
+          "RLCJ5VT104Y-048199"
+        ],
+        "engineNumber": [
+          "5VT1-48199"
+        ],
+        "status": [
+          "01"
+        ],
+        "owner": [
+          "Lê Đức Dũng   1976"
+        ],
+        "identityId": [
+          "182045527"
+        ],
+        "licensePlateIssueDate": [
+          "2004-09-29T00:00:00.000000000Z"
+        ],
+        "address": [
+          "X9,Thượng Sơn,Đô Lương"
+        ]
+      },
+      "level": 1
+    },
+    {
+      "id": "068b6b59-5528-5266-a373-7abc150684fb",
+      "entity": "Vehicle",
+      "properties": {
+        "firstLicensePlateIssueDate": [
+          "2004-09-29T00:00:00.000000000Z"
+        ],
+        "vehicleType": [
+          "moto"
+        ],
+        "licencePlateColor": [
+          "0"
+        ],
+        "licencePlateNumber": [
+          "37L18892"
+        ],
+        "bankAccountNumber": [
+          "1"
+        ],
+        "owner": [
+          "LÊ ĐỨC DŨNG 1976"
+        ],
+        "identityId": [
+          "040076027763"
+        ]
+      },
+      "level": 1
+    },
+    {
+      "id": "8ea0dc47-d427-45b7-87ba-31679d5cfda9",
+      "entity": "Vehicle",
+      "properties": {
+        "firstLicensePlateIssueDate": [
+          "2019-07-30T00:00:00.000000000Z"
+        ],
+        "certificateOfOriginNumber": [
+          "ĐA0695762"
+        ],
+        "phone": [
+          "0975425406"
+        ],
+        "color": [
+          "Đỏ"
+        ],
+        "certificateOfOriginPlace": [
+          "Công ty Công nghệ DETECH"
+        ],
+        "carBrand": [
+          "ESPERO"
+        ],
+        "certificateOfOriginDate": [
+          "2019-07-23T00:00:00.000000000Z"
+        ],
+        "vehicleType": [
+          "Xe máy điện"
+        ],
+        "licencePlateNumber": [
+          "37MĐ252671"
+        ],
+        "vINNumber": [
+          "RPEYDDMPEKA304516"
+        ],
+        "engineNumber": [
+          "RPE48V1120W304516"
+        ],
+        "status": [
+          "01"
+        ],
+        "owner": [
+          "Lê Thị Kim Anh     2002"
+        ],
+        "certificateOfOriginName": [
+          "Phiếu kiểm tra chất lượng xuất xưởng"
+        ],
+        "licensePlateIssueDate": [
+          "2019-07-30T00:00:00.000000000Z"
+        ],
+        "address": [
+          "Xóm 9, Thượng Sơn, Đô Lương"
+        ]
+      },
+      "level": 1
+    },
+    {
+      "id": "675d0237-9078-496d-8ab6-de6ec0af91b9",
+      "entity": "FacebookProfile",
+      "properties": {
+        "fBId": [
+          "100003830422743"
+        ],
+        "phone": [
+          "0983195935"
+        ],
+        "locale": [
+          "SON LA"
+        ],
+        "jobs": [
+          "Nơi Lý trí được Bình yên"
+        ],
+        "gender": [
+          "1"
+        ],
+        "fullName": [
+          "Ken Hư"
+        ]
+      },
+      "level": 1
+    },
+    {
+      "id": "79eb4468-d576-41c4-b802-52918ab2ecee",
+      "entity": "FacebookProfile",
+      "properties": {
+        "PhoneInfo[0].phone": [
+          "0946229686"
+        ],
+        "fBId": [
+          "100003830422743"
+        ],
+        "fBUrl": [
+          "https://www.facebook.com/100003830422743"
+        ],
+        "PhoneInfo[0].countryCode": [
+          "84"
+        ],
+        "userName": [
+          "kenkul91"
+        ],
+        "gender": [
+          "1"
+        ],
+        "currentCity": [
+          "HUNGYENPROVINCE"
+        ],
+        "fullName": [
+          "Ken Hư"
+        ]
+      },
+      "level": 1
+    },
+    {
+      "id": "74fde760-c1f9-4df9-a9f8-d363bee2700f",
+      "entity": "Phone",
+      "properties": {
+        "tKGT4": [
+          "35563.25"
+        ],
+        "placeOfIssue": [
+          "Ca Nghệ An"
+        ],
+        "provinceName": [
+          "Nghe An"
+        ],
+        "tKGT5": [
+          "159.0"
+        ],
+        "tKGT1": [
+          "0.0"
+        ],
+        "dateOfIssue": [
+          "2012-04-17T00:00:00.000000000Z"
+        ],
+        "phone": [
+          "0975425406"
+        ],
+        "dateOfBirth": [
+          "1976-07-24T00:00:00.000000000Z"
+        ],
+        "adrress": [
+          "Thượng Sơn Đô Lương Nghệ An"
+        ],
+        "cLOPTKGTB7T": [
+          "9036.640000000001"
+        ],
+        "tKGT6": [
+          "21745.960000000003"
+        ],
+        "tKGT2": [
+          "5788.27"
+        ],
+        "tKGT12": [
+          "0.0"
+        ],
+        "districtName": [
+          "Nghệ An"
+        ],
+        "nationalId": [
+          "182045527"
+        ],
+        "tKGT3": [
+          "0.0"
+        ],
+        "fullName": [
+          "Lê Đức Dũng"
+        ]
+      },
+      "level": 1
+    }
+  ],
+  "edges": [
+    {
+      "from_entity": "c0b2cc6e-35fe-54b9-b4c5-e0ce3bdb71ab",
+      "to_entity": "7f9aca3b-a32d-5172-b20e-3e47cea4f071",
+      "relation_type": "links"
+    },
+    {
+      "from_entity": "7f9aca3b-a32d-5172-b20e-3e47cea4f071",
+      "from_entity_type": "Citizen",
+      "relation_type": "houseHolderOf",
+      "to_entity": "7f9aca3b-a32d-5172-b20e-3e47cea4f071",
+      "to_entity_type": "Citizen"
+    },
+    {
+      "from_entity": "7f9aca3b-a32d-5172-b20e-3e47cea4f071",
+      "from_entity_type": "Citizen",
+      "relation_type": "fatherOf",
+      "to_entity": "eca5e3c5-c52a-5ae1-8598-3d88d265a6a0",
+      "to_entity_type": "Citizen"
+    },
+    {
+      "from_entity": "7f9aca3b-a32d-5172-b20e-3e47cea4f071",
+      "from_entity_type": "Citizen",
+      "relation_type": "fatherOf",
+      "to_entity": "b9bdacb3-98d2-5f3f-8601-29146686117e",
+      "to_entity_type": "Citizen"
+    },
+    {
+      "from_entity": "7f9aca3b-a32d-5172-b20e-3e47cea4f071",
+      "from_entity_type": "Citizen",
+      "relation_type": "marriedTo",
+      "to_entity": "69681a19-aed9-5373-9aa2-e06221583a65",
+      "to_entity_type": "Citizen"
+    },
+    {
+      "from_entity": "55306b8a-c91b-56a2-ba53-e090f0c5b320",
+      "from_entity_type": "Citizen",
+      "relation_type": "motherOf",
+      "to_entity": "7f9aca3b-a32d-5172-b20e-3e47cea4f071",
+      "to_entity_type": "Citizen"
+    },
+    {
+      "from_entity": "c0b2cc6e-35fe-54b9-b4c5-e0ce3bdb71ab",
+      "to_entity": "8f1b8df5-5965-514e-800a-f7ad218450ff",
+      "relation_type": "links"
+    },
+    {
+      "from_entity": "c0b2cc6e-35fe-54b9-b4c5-e0ce3bdb71ab",
+      "to_entity": "3da889c5-a5ef-5732-9602-f995e8177ce2",
+      "relation_type": "links"
+    },
+    {
+      "from_entity": "c0b2cc6e-35fe-54b9-b4c5-e0ce3bdb71ab",
+      "to_entity": "65628bfd-e9c3-5a9e-895f-7ab2d4e00114",
+      "relation_type": "links"
+    },
+    {
+      "from_entity": "c0b2cc6e-35fe-54b9-b4c5-e0ce3bdb71ab",
+      "to_entity": "565cf86f-16d7-50c3-884c-308a9f82a2ba",
+      "relation_type": "links"
+    },
+    {
+      "from_entity": "c0b2cc6e-35fe-54b9-b4c5-e0ce3bdb71ab",
+      "to_entity": "bd05f760-cae7-5dc8-9c57-e33e0ed65f81",
+      "relation_type": "links"
+    },
+    {
+      "from_entity": "c0b2cc6e-35fe-54b9-b4c5-e0ce3bdb71ab",
+      "to_entity": "e72aa492-dc2f-4afb-8be9-e61b74834126",
+      "relation_type": "links"
+    },
+    {
+      "from_entity": "c0b2cc6e-35fe-54b9-b4c5-e0ce3bdb71ab",
+      "to_entity": "2aa2361d-701f-4781-87e7-998484489949",
+      "relation_type": "links"
+    },
+    {
+      "from_entity": "c0b2cc6e-35fe-54b9-b4c5-e0ce3bdb71ab",
+      "to_entity": "30fc28e0-904b-4505-9ec0-5cae11422ee8",
+      "relation_type": "links"
+    },
+    {
+      "from_entity": "c0b2cc6e-35fe-54b9-b4c5-e0ce3bdb71ab",
+      "to_entity": "ef00ccc5-14a3-4d57-911e-87f7e98e40cf",
+      "relation_type": "links"
+    },
+    {
+      "from_entity": "c0b2cc6e-35fe-54b9-b4c5-e0ce3bdb71ab",
+      "to_entity": "7193496c-6bff-596e-bcae-fa845fe4240f",
+      "relation_type": "links"
+    },
+    {
+      "from_entity": "c0b2cc6e-35fe-54b9-b4c5-e0ce3bdb71ab",
+      "to_entity": "2e644d6e-169d-40e7-ade5-044f1200c10e",
+      "relation_type": "links"
+    },
+    {
+      "from_entity": "c0b2cc6e-35fe-54b9-b4c5-e0ce3bdb71ab",
+      "to_entity": "249e0fc9-c996-4942-b3b3-034b353107e0",
+      "relation_type": "links"
+    },
+    {
+      "from_entity": "c0b2cc6e-35fe-54b9-b4c5-e0ce3bdb71ab",
+      "to_entity": "9e0a1c23-2a67-53d5-d3ac-fb46fc6e7556",
+      "relation_type": "links"
+    },
+    {
+      "from_entity": "c0b2cc6e-35fe-54b9-b4c5-e0ce3bdb71ab",
+      "to_entity": "d4da5000-5959-4383-8fa2-7fcabf9863cc",
+      "relation_type": "links"
+    },
+    {
+      "from_entity": "c0b2cc6e-35fe-54b9-b4c5-e0ce3bdb71ab",
+      "to_entity": "6cdc92ee-2b6d-4b23-9ea4-b3a6dcc37b02",
+      "relation_type": "links"
+    },
+    {
+      "from_entity": "c0b2cc6e-35fe-54b9-b4c5-e0ce3bdb71ab",
+      "to_entity": "068b6b59-5528-5266-a373-7abc150684fb",
+      "relation_type": "links"
+    },
+    {
+      "from_entity": "c0b2cc6e-35fe-54b9-b4c5-e0ce3bdb71ab",
+      "to_entity": "8ea0dc47-d427-45b7-87ba-31679d5cfda9",
+      "relation_type": "links"
+    },
+    {
+      "from_entity": "c0b2cc6e-35fe-54b9-b4c5-e0ce3bdb71ab",
+      "to_entity": "675d0237-9078-496d-8ab6-de6ec0af91b9",
+      "relation_type": "links"
+    },
+    {
+      "from_entity": "c0b2cc6e-35fe-54b9-b4c5-e0ce3bdb71ab",
+      "to_entity": "79eb4468-d576-41c4-b802-52918ab2ecee",
+      "relation_type": "links"
+    },
+    {
+      "from_entity": "c0b2cc6e-35fe-54b9-b4c5-e0ce3bdb71ab",
+      "to_entity": "74fde760-c1f9-4df9-a9f8-d363bee2700f",
+      "relation_type": "links"
+    }
+  ]
+}

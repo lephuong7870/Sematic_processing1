@@ -1,0 +1,812 @@
+{
+    "nodes": [
+        {
+            "id": "c0b2cc6e-35fe-54b9-b4c5-e0ce3bdb71ab",
+            "entity": "Netizen",
+            "properties": {
+                "mother[0].motheridentityid": "040146001136",
+                "socialinsurancenumber": "2206004644,040076027763",
+                "fullname": "lê đức dũng",
+                "licenceplatenumber": "37l18892",
+                "child[0].childidentityid": "040302014721",
+                "child[1].childidentityid": "040207026825",
+                "phone": "0975425406,0356024900",
+                "dateofbirth": "1976-07-24t00:00:00.000000000z",
+                "mother[0].mothernationalid": "180847799",
+                "child[0].childnationalid": "188003799",
+                "householder[0].householderidentityid": "040076027763",
+                "facebookid": "100003830422743",
+                "healthinsurancenumber": "hc4402206004644",
+                "couple[0].couplenationalid": "182231124",
+                "couple[0].coupleidentityid": "040177012788",
+                "identityid": "040076027763",
+                "householder[0].householdernationalid": "182045527",
+                "nationalid": "182045527"
+            },
+            "level": 0
+        },
+        {
+            "id": "7f9aca3b-a32d-5172-b20e-3e47cea4f071",
+            "entity": "Citizen",
+            "properties": {
+                "residential[0].residentialdistrict": "Huyện Đô Lương",
+                "mother[0].mothernationalid": "180847799",
+                "residential[0].residentialcountry": "Việt Nam",
+                "fullname": "lê đức dũng",
+                "hometown[0].hometowndistrict": "Huyện Đô Lương",
+                "child[0].childidentityid": "040207026825",
+                "child[0].childfullname": "lê đức đạt",
+                "householder[0].householderfullname": "lê đức dũng",
+                "address[0].addresscommune": "Xã Thượng Sơn",
+                "residential[0].residentialcommune": "Xã Thượng Sơn",
+                "couple[0].couplenationality": "Việt Nam",
+                "maritalstatus": "Đang có vợ/chồng",
+                "ethnicity": "Kinh",
+                "hometown[0].hometowncommune": "Xã Thượng Sơn",
+                "residential[0].residentialprovince": "Tỉnh Nghệ An",
+                "hometown[0].hometownprovince": "Tỉnh Nghệ An",
+                "child[1].childnationality": "Việt Nam",
+                "address[0].addressdistrict": "Huyện Đô Lương",
+                "couple[0].coupleidentityid": "040177012788",
+                "child[1].childfullname": "lê thị kim anh",
+                "child[1].childidentityid": "040302014721",
+                "dateofbirth": "1976-07-24t00:00:00.000000000z",
+                "identityid": "040076027763",
+                "residential[0].residentialdetail": "xóm 5",
+                "bloodgroup": "Chưa có thông tin",
+                "mother[0].motherfullname": "nguyễn thị thựu",
+                "address[0].addresscountry": "Việt Nam",
+                "couple[0].couplenationalid": "182231124",
+                "religion": "Không",
+                "hometown[0].hometowncountry": "Việt Nam",
+                "child[1].childnationalid": "188003799",
+                "placeofbirth[0].placeofbirthprovince": "Tỉnh Nghệ An",
+                "father[0].fathernationality": "Việt Nam",
+                "child[0].childnationality": "Việt Nam",
+                "placeofbirth[0].placeofbirthcountry": "Việt Nam",
+                "householdrecordnumber": "17644-001465",
+                "gender": "Nam",
+                "couple[0].couplefullname": "nguyễn thị hoài",
+                "father[0].fatherfullname": "lê đức nhiên",
+                "householderrelation": "Chủ hộ",
+                "mother[0].motheridentityid": "040146001136",
+                "placeofbirth[0].placeofbirthdistrict": "Huyện Đô Lương",
+                "mother[0].mothernationality": "Việt Nam",
+                "address[0].addressdetail": "xóm 5",
+                "nationalid": "182045527",
+                "address[0].addressprovince": "Tỉnh Nghệ An",
+                "householder[0].householdernationalid": "182045527",
+                "placeofbirth[0].placeofbirthcommune": "Xã Thượng Sơn",
+                "householder[0].householderidentityid": "040076027763"
+            }
+        },
+        {
+            "id": "55306b8a-c91b-56a2-ba53-e090f0c5b320",
+            "entity": "Citizen",
+            "properties": {
+                "residential[0].residentialdistrict": "Huyện Đô Lương",
+                "residential[0].residentialcountry": "Việt Nam",
+                "fullname": "nguyễn thị thựu",
+                "hometown[0].hometowndistrict": "Huyện Đô Lương",
+                "child[0].childidentityid": "040073027545",
+                "child[0].childfullname": "lê đức hưng",
+                "householder[0].householderfullname": "nguyễn thị thựu",
+                "address[0].addresscommune": "Xã Thượng Sơn",
+                "child[2].childnationality": "Việt Nam",
+                "residential[0].residentialcommune": "Xã Thượng Sơn",
+                "couple[0].couplenationality": "Việt Nam",
+                "maritalstatus": "Đang có vợ/chồng",
+                "ethnicity": "Kinh",
+                "hometown[0].hometowncommune": "Xã Thượng Sơn",
+                "residential[0].residentialprovince": "Tỉnh Nghệ An",
+                "hometown[0].hometownprovince": "Tỉnh Nghệ An",
+                "child[1].childnationality": "Việt Nam",
+                "address[0].addressdistrict": "Huyện Đô Lương",
+                "child[0].childnationalid": "186558217",
+                "child[1].childfullname": "lê đức dũng",
+                "child[1].childidentityid": "040076027763",
+                "dateofbirth": "1946-05-06t00:00:00.000000000z",
+                "identityid": "040146001136",
+                "residential[0].residentialdetail": "xóm 5",
+                "bloodgroup": "Chưa có thông tin",
+                "mother[0].motherfullname": "lê thị vưu",
+                "address[0].addresscountry": "Việt Nam",
+                "religion": "Không",
+                "hometown[0].hometowncountry": "Việt Nam",
+                "child[1].childnationalid": "182045527",
+                "child[2].childnationalid": "186143416",
+                "placeofbirth[0].placeofbirthprovince": "Tỉnh Nghệ An",
+                "father[0].fathernationality": "Việt Nam",
+                "child[0].childnationality": "Việt Nam",
+                "placeofbirth[0].placeofbirthcountry": "Việt Nam",
+                "householdrecordnumber": "17644-001450",
+                "gender": "Nữ",
+                "couple[0].couplefullname": "nguyễn thị thựu",
+                "father[0].fatherfullname": "nguyễn tất tân",
+                "householderrelation": "Chủ hộ",
+                "placeofbirth[0].placeofbirthdistrict": "Huyện Đô Lương",
+                "mother[0].mothernationality": "Việt Nam",
+                "child[2].childidentityid": "040085006609",
+                "address[0].addressdetail": "xóm 5",
+                "nationalid": "180847799",
+                "address[0].addressprovince": "Tỉnh Nghệ An",
+                "householder[0].householdernationalid": "180847799",
+                "child[2].childfullname": "lê đức bằng",
+                "placeofbirth[0].placeofbirthcommune": "Xã Thượng Sơn",
+                "householder[0].householderidentityid": "040146001136"
+            }
+        },
+        {
+            "id": "eca5e3c5-c52a-5ae1-8598-3d88d265a6a0",
+            "entity": "Citizen",
+            "properties": {
+                "residential[0].residentialprovince": "Tỉnh Nghệ An",
+                "father[0].fathercountry": "Việt Nam",
+                "householder[0].householderfullname": "lê đức dũng",
+                "father[0].fathernationalid": "182045527",
+                "placeofbirth[0].placeofbirthdistrict": "Huyện Đô Lương",
+                "maritalstatus": "Chưa kết hôn",
+                "address[0].addressprovince": "Tỉnh Nghệ An",
+                "placeofbirth[0].placeofbirthprovince": "Tỉnh Nghệ An",
+                "hometown[0].hometowncountry": "Việt Nam",
+                "mother[0].motheridentityid": "040177012788",
+                "hometown[0].hometowndistrict": "Huyện Đô Lương",
+                "placeofbirth[0].placeofbirthcountry": "Việt Nam",
+                "dateofbirth": "2007-11-13t00:00:00.000000000z",
+                "residential[0].residentialcountry": "Việt Nam",
+                "address[0].addressdetail": "xóm 5",
+                "address[0].addresscountry": "Việt Nam",
+                "ethnicity": "Kinh",
+                "father[0].fatherfullname": "lê đức dũng",
+                "mother[0].mothercountry": "Việt Nam",
+                "householdrecordnumber": "17644-001465",
+                "fullname": "lê đức đạt",
+                "hometown[0].hometowncommune": "Xã Thượng Sơn",
+                "father[0].fatheridentityid": "040076027763",
+                "placeofbirth[0].placeofbirthcommune": "Xã Thượng Sơn",
+                "address[0].addresscommune": "Xã Thượng Sơn",
+                "mother[0].mothernationalid": "182231124",
+                "residential[0].residentialcommune": "Xã Thượng Sơn",
+                "residential[0].residentialdistrict": "Huyện Đô Lương",
+                "bloodgroup": "Chưa có thông tin",
+                "mother[0].motherfullname": "nguyễn thị hoài",
+                "identityid": "040207026825",
+                "hometown[0].hometownprovince": "Tỉnh Nghệ An",
+                "residential[0].residentialdetail": "xóm 5",
+                "address[0].addressdistrict": "Huyện Đô Lương",
+                "gender": "Nam",
+                "householderrelation": "Con đẻ",
+                "religion": "Không",
+                "householder[0].householdernationalid": "182045527",
+                "householder[0].householderidentityid": "040076027763"
+            }
+        },
+        {
+            "id": "b9bdacb3-98d2-5f3f-8601-29146686117e",
+            "entity": "Citizen",
+            "properties": {
+                "residential[0].residentialdistrict": "Huyện Đô Lương",
+                "mother[0].mothernationalid": "182231124",
+                "residential[0].residentialcountry": "Việt Nam",
+                "fullname": "lê thị kim anh",
+                "father[0].fathercountry": "Việt Nam",
+                "hometown[0].hometowndistrict": "Huyện Đô Lương",
+                "householder[0].householderfullname": "lê đức dũng",
+                "address[0].addresscommune": "Phường Phương Liệt",
+                "residential[0].residentialcommune": "Xã Thượng Sơn",
+                "maritalstatus": "Chưa kết hôn",
+                "father[0].fathernationalid": "182045527",
+                "ethnicity": "Kinh",
+                "hometown[0].hometowncommune": "Xã Thượng Sơn",
+                "residential[0].residentialprovince": "Tỉnh Nghệ An",
+                "hometown[0].hometownprovince": "Tỉnh Nghệ An",
+                "address[0].addressdistrict": "Quận Thanh Xuân",
+                "dateofbirth": "2002-11-04t00:00:00.000000000z",
+                "identityid": "040302014721",
+                "residential[0].residentialdetail": "xóm 5",
+                "bloodgroup": "Chưa có thông tin",
+                "mother[0].motherfullname": "nguyễn thị hoài",
+                "address[0].addresscountry": "Việt Nam",
+                "religion": "Không",
+                "father[0].fatheridentityid": "040076027763",
+                "hometown[0].hometowncountry": "Việt Nam",
+                "mother[0].mothercountry": "Việt Nam",
+                "placeofbirth[0].placeofbirthprovince": "Tỉnh Nghệ An",
+                "placeofbirth[0].placeofbirthcountry": "Việt Nam",
+                "householdrecordnumber": "17644-001465",
+                "gender": "Nữ",
+                "father[0].fatherfullname": "lê đức dũng",
+                "householderrelation": "Con đẻ",
+                "mother[0].motheridentityid": "040177012788",
+                "placeofbirth[0].placeofbirthdistrict": "Huyện Đô Lương",
+                "address[0].addressdetail": "347 giải phóng",
+                "nationalid": "188003799",
+                "address[0].addressprovince": "Thành phố Hà Nội",
+                "householder[0].householdernationalid": "182045527",
+                "placeofbirth[0].placeofbirthcommune": "Xã Thượng Sơn",
+                "householder[0].householderidentityid": "040076027763"
+            }
+        },
+        {
+            "id": "69681a19-aed9-5373-9aa2-e06221583a65",
+            "entity": "Citizen",
+            "properties": {
+                "residential[0].residentialdistrict": "Huyện Đô Lương",
+                "mother[0].mothernationalid": "181872173",
+                "residential[0].residentialcountry": "Việt Nam",
+                "fullname": "nguyễn thị hoài",
+                "hometown[0].hometowndistrict": "Huyện Đô Lương",
+                "child[0].childidentityid": "040207026825",
+                "child[0].childfullname": "lê đức đạt",
+                "householder[0].householderfullname": "lê đức dũng",
+                "address[0].addresscommune": "Xã Thượng Sơn",
+                "residential[0].residentialcommune": "Xã Thượng Sơn",
+                "couple[0].couplenationality": "Việt Nam",
+                "maritalstatus": "Đang có vợ/chồng",
+                "father[0].fathernationalid": "187398243",
+                "ethnicity": "Kinh",
+                "hometown[0].hometowncommune": "Xã Thượng Sơn",
+                "residential[0].residentialprovince": "Tỉnh Nghệ An",
+                "hometown[0].hometownprovince": "Tỉnh Nghệ An",
+                "child[1].childnationality": "Việt Nam",
+                "address[0].addressdistrict": "Huyện Đô Lương",
+                "couple[0].coupleidentityid": "040076027763",
+                "child[1].childfullname": "lê thị kim anh",
+                "child[1].childidentityid": "040302014721",
+                "dateofbirth": "1977-12-20t00:00:00.000000000z",
+                "identityid": "040177012788",
+                "residential[0].residentialdetail": "xóm 5",
+                "bloodgroup": "Chưa có thông tin",
+                "mother[0].motherfullname": "lê thị thường",
+                "address[0].addresscountry": "Việt Nam",
+                "couple[0].couplenationalid": "182045527",
+                "religion": "Không",
+                "hometown[0].hometowncountry": "Việt Nam",
+                "child[1].childnationalid": "188003799",
+                "placeofbirth[0].placeofbirthprovince": "Tỉnh Nghệ An",
+                "father[0].fathernationality": "Việt Nam",
+                "child[0].childnationality": "Việt Nam",
+                "placeofbirth[0].placeofbirthcountry": "Việt Nam",
+                "householdrecordnumber": "17644-001465",
+                "gender": "Nữ",
+                "couple[0].couplefullname": "lê đức dũng",
+                "father[0].fatherfullname": "nguyễn văn mẫu",
+                "householderrelation": "Vợ",
+                "mother[0].motheridentityid": "040148008865",
+                "placeofbirth[0].placeofbirthdistrict": "Huyện Đô Lương",
+                "mother[0].mothernationality": "Việt Nam",
+                "address[0].addressdetail": "xóm 5",
+                "nationalid": "182231124",
+                "address[0].addressprovince": "Tỉnh Nghệ An",
+                "householder[0].householdernationalid": "182045527",
+                "placeofbirth[0].placeofbirthcommune": "Xã Thượng Sơn",
+                "householder[0].householderidentityid": "040076027763"
+            }
+        },
+        {
+            "id": "8f1b8df5-5965-514e-800a-f7ad218450ff",
+            "entity": "Netizen",
+            "properties": {
+                "mother[0].motheridentityid": "040177012788",
+                "socialinsurancenumber": "040302014721",
+                "fullname": "lê thị kim anh",
+                "father[0].fatheridentityid": "040076027763",
+                "father[0].fathernationalid": "182045527",
+                "phone": "0962798412",
+                "dateofbirth": "2002-11-04t00:00:00.000000000z",
+                "mother[0].mothernationalid": "182231124",
+                "householder[0].householderidentityid": "040076027763",
+                "facebookid": "100004133885504",
+                "healthinsurancenumber": "sv4014016823280",
+                "identityid": "040302014721",
+                "householder[0].householdernationalid": "182045527",
+                "taxcode": "8693554519",
+                "nationalid": "188003799"
+            },
+            "level": 1
+        },
+        {
+            "id": "3da889c5-a5ef-5732-9602-f995e8177ce2",
+            "entity": "Netizen",
+            "properties": {
+                "mother[0].motheridentityid": "040148008865",
+                "socialinsurancenumber": "040177012788",
+                "fullname": "nguyễn thị hoài",
+                "father[0].fathernationalid": "187398243",
+                "child[1].childnationalid": "188003799",
+                "licenceplatenumber": "37s21780",
+                "child[0].childidentityid": "040207026825",
+                "child[1].childidentityid": "040302014721",
+                "phone": "0383159959",
+                "dateofbirth": "1977-12-20t00:00:00.000000000z",
+                "mother[0].mothernationalid": "181872173",
+                "householder[0].householderidentityid": "040076027763",
+                "facebookid": "100008529915153",
+                "healthinsurancenumber": "hc4402902001974",
+                "couple[0].couplenationalid": "182045527",
+                "couple[0].coupleidentityid": "040076027763",
+                "identityid": "040177012788",
+                "householder[0].householdernationalid": "182045527",
+                "nationalid": "182231124"
+            },
+            "level": 1
+        },
+        {
+            "id": "65628bfd-e9c3-5a9e-895f-7ab2d4e00114",
+            "entity": "Netizen",
+            "properties": {
+                "socialinsurancenumber": "4017366751",
+                "fullname": "nguyễn thị thựu",
+                "child[2].childnationalid": "186143416",
+                "child[1].childnationalid": "186558217",
+                "child[0].childidentityid": "040076027763",
+                "child[1].childidentityid": "040073027545",
+                "phone": "0356130993",
+                "dateofbirth": "1946-05-06t00:00:00.000000000z",
+                "child[0].childnationalid": "182045527",
+                "householder[0].householderidentityid": "040146001136",
+                "child[2].childidentityid": "040085006609",
+                "healthinsurancenumber": "ht2404017366751",
+                "identityid": "040146001136",
+                "householder[0].householdernationalid": "180847799",
+                "nationalid": "180847799"
+            },
+            "level": 1
+        },
+        {
+            "id": "565cf86f-16d7-50c3-884c-308a9f82a2ba",
+            "entity": "Netizen",
+            "properties": {
+                "mother[0].motheridentityid": "040177012788",
+                "socialinsurancenumber": "4016738217",
+                "fullname": "lê đức đạt",
+                "father[0].fatheridentityid": "040076027763",
+                "father[0].fathernationalid": "182045527",
+                "dateofbirth": "2007-11-13t00:00:00.000000000z",
+                "mother[0].mothernationalid": "182231124",
+                "householder[0].householderidentityid": "040076027763",
+                "healthinsurancenumber": "hs4404016738217",
+                "identityid": "040207026825",
+                "householder[0].householdernationalid": "182045527"
+            },
+            "level": 1
+        },
+        {
+            "id": "bd05f760-cae7-5dc8-9c57-e33e0ed65f81",
+            "entity": "Person",
+            "properties": {
+                "socialinsurancenumber": "2206004644",
+                "addresscommune": "Xã Thượng Sơn",
+                "identityid": "040076027763",
+                "phone": "0975425406",
+                "dateofbirth": "1976-07-24t00:00:00.000000000z",
+                "socialinsurancenote": "trạm giống chăn nuôi đô lương - h. đô lương",
+                "healthinsurancenumber": "hc4402206004644",
+                "addressdistrict": "Huyện Đô Lương",
+                "addressprovince": "Tỉnh Nghệ An",
+                "address": "xã thượng sơn, huyện đô lương, tỉnh nghệ an",
+                "fullname": "lê đức dũng"
+            },
+            "level": 1
+        },
+        {
+            "id": "e72aa492-dc2f-4afb-8be9-e61b74834126",
+            "entity": "Person",
+            "properties": {
+                "socialinsurancenumber": "2206004644",
+                "addresscommune": "Xã Thượng Sơn",
+                "identityid": "040076027763",
+                "phone": "0975425406",
+                "dateofbirth": "1976-07-24t00:00:00.000000000z",
+                "addressregistrationsocialinsurance": "trạm giống chăn nuôi đô lương - h. đô lương",
+                "healthinsurancenumber": "hc4402206004644",
+                "addressdistrict": "Huyện Đô Lương",
+                "residentialaddressdetail": " xã thượng sơn huyện đô lương tỉnh nghệ an",
+                "addressprovince": "Tỉnh Nghệ An",
+                "fullname": "lê đức dũng"
+            },
+            "level": 1
+        },
+        {
+            "id": "2aa2361d-701f-4781-87e7-998484489949",
+            "entity": "Person",
+            "properties": {
+                "socialinsurancenumber": "040076027763",
+                "staffemail": "tramgiongcndoluong@gmail.com",
+                "directorname": "lê đức dũng",
+                "identityid": "040076027763",
+                "coefficientssalary": "4.32",
+                "phone": "0975425406",
+                "dateofbirth": "1976-07-24t00:00:00.000000000z",
+                "salary": "0",
+                "companyname": "trạm giống chăn nuôi đô lương - h. đô lương",
+                "jobs": "trưởng trạm",
+                "householdnumber": "040302014721",
+                "timeparticipatesocialinsurance": "21 năm 1 tháng",
+                "companyaddress": "xã văn sơn, huyện đô lương, tỉnh nghệ an",
+                "gender": "Nam",
+                "address": "xã thượng sơn, huyện đô lương, tỉnh nghệ an",
+                "insurancefromdate": "2022-07-01t00:00:00.000000000z",
+                "fullname": "lê đức dũng",
+                "insurancetodate": "2023-04-01t00:00:00.000000000z"
+            },
+            "level": 1
+        },
+        {
+            "id": "30fc28e0-904b-4505-9ec0-5cae11422ee8",
+            "entity": "Person",
+            "properties": {
+                "identityid": "040076027763",
+                "phone": "0975425406",
+                "dateofbirth": "1976-07-24t00:00:00.000000000z",
+                "healthinsurancenumber": "hc4402206004644",
+                "healthinsurancepayer": "trạm giống chăn nuôi đô lương - h. đô lương",
+                "fullname": "lê đức dũng"
+            },
+            "level": 1
+        },
+        {
+            "id": "ef00ccc5-14a3-4d57-911e-87f7e98e40cf",
+            "entity": "Person",
+            "properties": {
+                "staffemail": "tramgiongcndoluong@gmail.com",
+                "directorname": "lê đức dũng",
+                "identityid": "040076027763",
+                "phone": "0975425406",
+                "dateofbirth": "1976-07-24t00:00:00.000000000z",
+                "addressregistrationsocialinsurance": "xã thượng sơn, huyện đô lương, tỉnh nghệ an",
+                "companyname": "trạm giống chăn nuôi đô lương - h. đô lương",
+                "timeparticipatesocialinsurance": "21 năm 1 tháng ",
+                "companyaddress": "xã văn sơn, huyện đô lương, tỉnh nghệ an",
+                "directoridentityid": "040302014721",
+                "gender": "Nam",
+                "insurancefromdate": "2022-07-01t00:00:00.000000000z",
+                "fullname": "lê đức dũng",
+                "relationshipwithhouseholder": "khác",
+                "insurancetodate": "2023-04-01t00:00:00.000000000z"
+            },
+            "level": 1
+        },
+        {
+            "id": "7193496c-6bff-596e-bcae-fa845fe4240f",
+            "entity": "Person",
+            "properties": {
+                "socialinsurancenumber": "3314016492",
+                "addresscommune": "Xã Đồng Tiến",
+                "identityid": "033089005829",
+                "phone": "0946229686",
+                "dateofbirth": "1989-10-02t00:00:00.000000000z",
+                "socialinsurancenote": "hội phụ nữ huyện khoái châu - bhyt hgđ xã đông kết",
+                "healthinsurancenumber": "gd4333314016492",
+                "addressdistrict": "Huyện Khoái Châu",
+                "addressprovince": "Tỉnh Hưng Yên",
+                "address": "xã đồng tiến, huyện khoái châu, tỉnh hưng yên",
+                "fullname": "đỗ văn mười"
+            },
+            "level": 1
+        },
+        {
+            "id": "2e644d6e-169d-40e7-ade5-044f1200c10e",
+            "entity": "Person",
+            "properties": {
+                "identityid": "033089005829",
+                "phone": "0946229686",
+                "dateofbirth": "1989-10-02t00:00:00.000000000z",
+                "healthinsurancenumber": "gd4333314016492",
+                "healthinsurancepayer": "hội phụ nữ huyện khoái châu - bhyt hgđ xã đông kết",
+                "fullname": "đỗ văn mười"
+            },
+            "level": 1
+        },
+        {
+            "id": "249e0fc9-c996-4942-b3b3-034b353107e0",
+            "entity": "Person",
+            "properties": {
+                "socialinsurancenumber": "3314016492",
+                "addresscommune": "12244",
+                "identityid": "033089005829",
+                "phone": "0946229686",
+                "dateofbirth": "1989-10-02t00:00:00.000000000z",
+                "addressregistrationsocialinsurance": "hội phụ nữ huyện khoái châu - bhyt hgđ xã đông kết",
+                "healthinsurancenumber": "gd4333314016492",
+                "addressdistrict": "Huyện Khoái Châu",
+                "residentialaddressdetail": " xã hồng tiến huyện khoái châu tỉnh hưng yên",
+                "addressprovince": "Tỉnh Hưng Yên",
+                "fullname": "đỗ văn mười"
+            },
+            "level": 1
+        },
+        {
+            "id": "9e0a1c23-2a67-53d5-d3ac-fb46fc6e7556",
+            "entity": "Vehicle",
+            "properties": {
+                "firstlicenseplateissuedate": "2016-09-29t09:11:04.000000000z",
+                "phone": "0946229686",
+                "vehicletype": "oto",
+                "licenceplatecolor": "Trắng",
+                "licenceplatenumber": "37a32099",
+                "bankaccountnumber": "1",
+                "owner": "lê đức dũng   1976",
+                "identityid": "040076027763"
+            },
+            "level": 1
+        },
+        {
+            "id": "d4da5000-5959-4383-8fa2-7fcabf9863cc",
+            "entity": "Vehicle",
+            "properties": {
+                "firstlicenseplateissuedate": "2016-09-29t00:00:00.000000000z",
+                "platetype": "0",
+                "phone": "0946229686",
+                "color": "trắng",
+                "vehicletype": "ô tô con",
+                "licenceplatenumber": "37a32099",
+                "identitytype": "2",
+                "enginenumber": "ueja08922",
+                "capacity": "1498",
+                "owner": "lê đức dũng   1976",
+                "vehicleid": "62759833",
+                "numbersittingseats": "5",
+                "identityid": "040076027763",
+                "chassisnumber": "rl05tsbamger08922",
+                "licenseplateissuedate": "2016-09-29t00:00:00.000000000z",
+                "brand": "ford",
+                "address": "xóm 9, thượng sơn, đô lương"
+            },
+            "level": 1
+        },
+        {
+            "id": "6cdc92ee-2b6d-4b23-9ea4-b3a6dcc37b02",
+            "entity": "Vehicle",
+            "properties": {
+                "firstlicenseplateissuedate": "2004-09-29t00:00:00.000000000z",
+                "certificateoforiginnumber": "bp0167905",
+                "color": "xanh",
+                "certificateoforiginplace": "doanh nghiệp sản xuất phương tiện",
+                "carbrand": "yamaha",
+                "vehicletype": "hai bánh từ 50-175cm3",
+                "licenceplatenumber": "37l18892",
+                "identitytype": "1",
+                "vinnumber": "rlcj5vt104y-048199",
+                "enginenumber": "5vt1-48199",
+                "status": "01",
+                "owner": "lê đức dũng   1976",
+                "identityid": "182045527",
+                "licenseplateissuedate": "2004-09-29t00:00:00.000000000z",
+                "address": "x9,thượng sơn,đô lương"
+            },
+            "level": 1
+        },
+        {
+            "id": "068b6b59-5528-5266-a373-7abc150684fb",
+            "entity": "Vehicle",
+            "properties": {
+                "firstlicenseplateissuedate": "2004-09-29t00:00:00.000000000z",
+                "vehicletype": "moto",
+                "licenceplatecolor": "Trắng",
+                "licenceplatenumber": "37l18892",
+                "bankaccountnumber": "1",
+                "owner": "lê đức dũng 1976",
+                "identityid": "040076027763"
+            },
+            "level": 1
+        },
+        {
+            "id": "8ea0dc47-d427-45b7-87ba-31679d5cfda9",
+            "entity": "Vehicle",
+            "properties": {
+                "firstlicenseplateissuedate": "2019-07-30t00:00:00.000000000z",
+                "certificateoforiginnumber": "đa0695762",
+                "phone": "0975425406",
+                "color": "đỏ",
+                "certificateoforiginplace": "công ty công nghệ detech",
+                "carbrand": "espero",
+                "certificateoforigindate": "2019-07-23t00:00:00.000000000z",
+                "vehicletype": "xe máy điện",
+                "licenceplatenumber": "37mđ252671",
+                "vinnumber": "rpeyddmpeka304516",
+                "enginenumber": "rpe48v1120w304516",
+                "status": "01",
+                "owner": "lê thị kim anh     2002",
+                "certificateoforiginname": "phiếu kiểm tra chất lượng xuất xưởng",
+                "licenseplateissuedate": "2019-07-30t00:00:00.000000000z",
+                "address": "xóm 9, thượng sơn, đô lương"
+            },
+            "level": 1
+        },
+        {
+            "id": "675d0237-9078-496d-8ab6-de6ec0af91b9",
+            "entity": "FacebookProfile",
+            "properties": {
+                "fbid": "100003830422743",
+                "phone": "0983195935",
+                "locale": "son la",
+                "jobs": "nơi lý trí được bình yên",
+                "gender": "Nam",
+                "fullname": "ken hư"
+            },
+            "level": 1
+        },
+        {
+            "id": "79eb4468-d576-41c4-b802-52918ab2ecee",
+            "entity": "FacebookProfile",
+            "properties": {
+                "phoneinfo[0].phone": "0946229686",
+                "fbid": "100003830422743",
+                "fburl": "https://www.facebook.com/100003830422743",
+                "phoneinfo[0].countrycode": "84",
+                "username": "kenkul91",
+                "gender": "Nam",
+                "currentcity": "hungyenprovince",
+                "fullname": "ken hư"
+            },
+            "level": 1
+        },
+        {
+            "id": "74fde760-c1f9-4df9-a9f8-d363bee2700f",
+            "entity": "Phone",
+            "properties": {
+                "tkgt4": "35563.25",
+                "placeofissue": "ca nghệ an",
+                "provincename": "nghe an",
+                "tkgt5": "159.0",
+                "tkgt1": "0.0",
+                "dateofissue": "2012-04-17t00:00:00.000000000z",
+                "phone": "0975425406",
+                "dateofbirth": "1976-07-24t00:00:00.000000000z",
+                "adrress": "thượng sơn đô lương nghệ an",
+                "cloptkgtb7t": "9036.640000000001",
+                "tkgt6": "21745.960000000003",
+                "tkgt2": "5788.27",
+                "tkgt12": "0.0",
+                "districtname": "nghệ an",
+                "nationalid": "182045527",
+                "tkgt3": "0.0",
+                "fullname": "lê đức dũng"
+            },
+            "level": 1
+        }
+    ],
+    "edges": [
+        {
+            "from_entity": "c0b2cc6e-35fe-54b9-b4c5-e0ce3bdb71ab",
+            "to_entity": "7f9aca3b-a32d-5172-b20e-3e47cea4f071",
+            "relation_type": "links"
+        },
+        {
+            "from_entity": "7f9aca3b-a32d-5172-b20e-3e47cea4f071",
+            "from_entity_type": "Citizen",
+            "relation_type": "houseHolderOf",
+            "to_entity": "7f9aca3b-a32d-5172-b20e-3e47cea4f071",
+            "to_entity_type": "Citizen"
+        },
+        {
+            "from_entity": "7f9aca3b-a32d-5172-b20e-3e47cea4f071",
+            "from_entity_type": "Citizen",
+            "relation_type": "fatherOf",
+            "to_entity": "eca5e3c5-c52a-5ae1-8598-3d88d265a6a0",
+            "to_entity_type": "Citizen"
+        },
+        {
+            "from_entity": "7f9aca3b-a32d-5172-b20e-3e47cea4f071",
+            "from_entity_type": "Citizen",
+            "relation_type": "fatherOf",
+            "to_entity": "b9bdacb3-98d2-5f3f-8601-29146686117e",
+            "to_entity_type": "Citizen"
+        },
+        {
+            "from_entity": "7f9aca3b-a32d-5172-b20e-3e47cea4f071",
+            "from_entity_type": "Citizen",
+            "relation_type": "marriedTo",
+            "to_entity": "69681a19-aed9-5373-9aa2-e06221583a65",
+            "to_entity_type": "Citizen"
+        },
+        {
+            "from_entity": "55306b8a-c91b-56a2-ba53-e090f0c5b320",
+            "from_entity_type": "Citizen",
+            "relation_type": "motherOf",
+            "to_entity": "7f9aca3b-a32d-5172-b20e-3e47cea4f071",
+            "to_entity_type": "Citizen"
+        },
+        {
+            "from_entity": "c0b2cc6e-35fe-54b9-b4c5-e0ce3bdb71ab",
+            "to_entity": "8f1b8df5-5965-514e-800a-f7ad218450ff",
+            "relation_type": "links"
+        },
+        {
+            "from_entity": "c0b2cc6e-35fe-54b9-b4c5-e0ce3bdb71ab",
+            "to_entity": "3da889c5-a5ef-5732-9602-f995e8177ce2",
+            "relation_type": "links"
+        },
+        {
+            "from_entity": "c0b2cc6e-35fe-54b9-b4c5-e0ce3bdb71ab",
+            "to_entity": "65628bfd-e9c3-5a9e-895f-7ab2d4e00114",
+            "relation_type": "links"
+        },
+        {
+            "from_entity": "c0b2cc6e-35fe-54b9-b4c5-e0ce3bdb71ab",
+            "to_entity": "565cf86f-16d7-50c3-884c-308a9f82a2ba",
+            "relation_type": "links"
+        },
+        {
+            "from_entity": "c0b2cc6e-35fe-54b9-b4c5-e0ce3bdb71ab",
+            "to_entity": "bd05f760-cae7-5dc8-9c57-e33e0ed65f81",
+            "relation_type": "links"
+        },
+        {
+            "from_entity": "c0b2cc6e-35fe-54b9-b4c5-e0ce3bdb71ab",
+            "to_entity": "e72aa492-dc2f-4afb-8be9-e61b74834126",
+            "relation_type": "links"
+        },
+        {
+            "from_entity": "c0b2cc6e-35fe-54b9-b4c5-e0ce3bdb71ab",
+            "to_entity": "2aa2361d-701f-4781-87e7-998484489949",
+            "relation_type": "links"
+        },
+        {
+            "from_entity": "c0b2cc6e-35fe-54b9-b4c5-e0ce3bdb71ab",
+            "to_entity": "30fc28e0-904b-4505-9ec0-5cae11422ee8",
+            "relation_type": "links"
+        },
+        {
+            "from_entity": "c0b2cc6e-35fe-54b9-b4c5-e0ce3bdb71ab",
+            "to_entity": "ef00ccc5-14a3-4d57-911e-87f7e98e40cf",
+            "relation_type": "links"
+        },
+        {
+            "from_entity": "c0b2cc6e-35fe-54b9-b4c5-e0ce3bdb71ab",
+            "to_entity": "7193496c-6bff-596e-bcae-fa845fe4240f",
+            "relation_type": "links"
+        },
+        {
+            "from_entity": "c0b2cc6e-35fe-54b9-b4c5-e0ce3bdb71ab",
+            "to_entity": "2e644d6e-169d-40e7-ade5-044f1200c10e",
+            "relation_type": "links"
+        },
+        {
+            "from_entity": "c0b2cc6e-35fe-54b9-b4c5-e0ce3bdb71ab",
+            "to_entity": "249e0fc9-c996-4942-b3b3-034b353107e0",
+            "relation_type": "links"
+        },
+        {
+            "from_entity": "c0b2cc6e-35fe-54b9-b4c5-e0ce3bdb71ab",
+            "to_entity": "9e0a1c23-2a67-53d5-d3ac-fb46fc6e7556",
+            "relation_type": "links"
+        },
+        {
+            "from_entity": "c0b2cc6e-35fe-54b9-b4c5-e0ce3bdb71ab",
+            "to_entity": "d4da5000-5959-4383-8fa2-7fcabf9863cc",
+            "relation_type": "links"
+        },
+        {
+            "from_entity": "c0b2cc6e-35fe-54b9-b4c5-e0ce3bdb71ab",
+            "to_entity": "6cdc92ee-2b6d-4b23-9ea4-b3a6dcc37b02",
+            "relation_type": "links"
+        },
+        {
+            "from_entity": "c0b2cc6e-35fe-54b9-b4c5-e0ce3bdb71ab",
+            "to_entity": "068b6b59-5528-5266-a373-7abc150684fb",
+            "relation_type": "links"
+        },
+        {
+            "from_entity": "c0b2cc6e-35fe-54b9-b4c5-e0ce3bdb71ab",
+            "to_entity": "8ea0dc47-d427-45b7-87ba-31679d5cfda9",
+            "relation_type": "links"
+        },
+        {
+            "from_entity": "c0b2cc6e-35fe-54b9-b4c5-e0ce3bdb71ab",
+            "to_entity": "675d0237-9078-496d-8ab6-de6ec0af91b9",
+            "relation_type": "links"
+        },
+        {
+            "from_entity": "c0b2cc6e-35fe-54b9-b4c5-e0ce3bdb71ab",
+            "to_entity": "79eb4468-d576-41c4-b802-52918ab2ecee",
+            "relation_type": "links"
+        },
+        {
+            "from_entity": "c0b2cc6e-35fe-54b9-b4c5-e0ce3bdb71ab",
+            "to_entity": "74fde760-c1f9-4df9-a9f8-d363bee2700f",
+            "relation_type": "links"
+        }
+    ]
+}
